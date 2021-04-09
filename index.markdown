@@ -4,15 +4,30 @@ layout: default
 
 # Release Engineering for Machine Learning
 
-CS4295
 
-Teachers: [Sebastian Proksch], [Luís Cruz]
-
-The world of Software Engineering has been revolutionized in the last decade. Instead of releasing software updates yearly, companies can now release multiple times per week, sometimes even per day, to their customers. This allows much quicker reactions to market demands, software failures, and is crucial to increase the business value of software. These improvements have been mostly enabled by advances in release engineering and, in this course, we will learn about the techniques and technologies that build the foundation for modern release engineering.
-
-We will go on a journey that starts at continuous integration and then moves on to continuous delivery, continuous deployment, and continuous experimentation. We will discuss the theory and the current research on various related subjects like containerization, testing, or monitoring and will put the learned theory into practice. As a running example, we will build a pipeline for a machine learning application, which -compared to traditional release engineering- poses additional challenges, like data versioning or model deployment.
+In this course, we will go on a journey that starts at continuous integration and then moves on to continuous delivery, continuous deployment, and continuous experimentation. We will discuss the theory and the current research on various related subjects like containerization, testing, or monitoring and will put the learned theory into practice. As a running example, we will build a pipeline for a machine learning application, which -compared to traditional release engineering- poses additional challenges, like data versioning or model deployment.
 
 ## Learning Objectives
+
+After following this course, you will be able to:
+
+- Apply standard techniques of release engineering;
+- Apply version control techniques to machine learning artifacts, like data or models Design a deployment pipeline for a machine learning application;
+- Implement quality control techniques in a machine learning pipeline;
+- Analyze and improve existing deployment pipelines;
+- Evaluate and document design decisions in deployment pipelines.
+
+## Organization
+
+**Course code**       | [CS4295]
+**Instructors**       | [Sebastian Proksch], [Luís Cruz]
+**Schedule**          |	Mondays, 15:45–17:45 <br/> Wednesdays, 13:45–15:45 <br/> Fridays, (?)
+**ECTS** 	            | 5.0
+**Quarter**           | Q4
+**Examination type**  | Software project (45%); Essay (45%); Presentation (10%)
+**Target audience**   |	Students of the M.Sc. programme in Computer Science
+**Requirements** 	    | - Intermediate understanding of OOP languages; <br/> - Practical experience with continuous integration; <br/> - Basic understanding of software testing principles; <br/> - Basic knowledge of machine learning techniques.
+
 
 ## Outline
 
@@ -52,14 +67,11 @@ We will go on a journey that starts at continuous integration and then moves on 
  30    | 10  |  
 
 
-## Summative Assessment
-
-- Pipeline (
-- Essay
-- Presentation
-
 ## Recommended Reading
+
+- Zhang, J. M., Harman, M., Ma, L., & Liu, Y. (2020). Machine learning testing: Survey, landscapes and horizons. IEEE Transactions on Software Engineering. [Pre-print](https://arxiv.org/pdf/1906.10742.pdf)
 
 
 [Sebastian Proksch]: https://proks.ch
 [Luís Cruz]: https://luiscruz.github.io
+[CS4295]: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56383
