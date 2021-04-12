@@ -15,21 +15,23 @@ title: Rubrics
 - Includes relevant references that motivate the work.
 - States hypothesis and specific predictions.
 - Clearly, concisely, and logically presents key concepts related to the solution and respective validation. 
+- The arguments laid out are technically sound, and of adequate technical depth.
+
 
 ### Format (30%)
 
 #### Coherence
 
-Insufficient: <br/>
-Sufficient: <br/>
-Good: <br/>
+Insufficient: Sentences, paragraphs, and sections have a clear change in structure and style. This lack of coherence hinders the clarity of the narrative. <br/>
+Sufficient: Sentences, paragraphs, and sections have a clear change in structure and style. However, this change in style does not hinder the clarity of the narrative.<br/>
+Good: Sometimes, sentences, paragraphs, and sections have a slight change of style. However, this change in style does not hinder the clarity of the narrative.<br/>
 Excellent: The text is well-structured. Sentences, paragraphs, and sections are coherent.
 
 #### Development
 
-Insufficient: <br/>
-Sufficient: <br/>
-Good: Some sections<br/>
+Insufficient: The flow of narrative is a bit jumpy – i.e, often, the sections do not naturally build upon each other. The conclusion misses a few messages that were developed in the narrative.<br/>
+Sufficient: The sections naturally build upon each other and work towards a clear message. However, in 1 or 2 sections, the flow of the narrative is broken. The conclusion misses a few messages that were developed in the narrative.<br/>
+Good: The sections naturally build upon each other and work towards a clear message. However, in 1 or 2 sections, the flow of the narrative is sometimes broken. There is a compelling conclusion.<br/>
 Excellent: The sections naturally build upon each other and work towards a clear message. There is a compelling conclusion.
 
 #### Correctness
@@ -61,7 +63,6 @@ Good: The story-line is illustrated with meaningful images and infographics. The
 Excellent: The story-line is illustrated with meaningful and appealing images and infographics. There is a clear link between the text and the figures.
 
 
-- The arguments laid out are technically sound, and of adequate technical depth.
 
 ### Solution (40%)
 
