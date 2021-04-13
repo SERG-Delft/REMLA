@@ -69,10 +69,10 @@ title: Rubrics
 #### Impact in the Process
 How the solution fits the process-pipeline
 
-**Insufficient:** <br/>
-**Sufficient:**   <br/>
-**Good:**         It is clear which part of the process/pipeline the solution is addressing. <br/>
-**Excellent:**    The solution naturally evolves on top of the existing state-of-the-art ML development and release pipeline. It provides a clear improvement in a particular stage of the process.
+**Insufficient:** It is not clear which part of the process/pipeline the solution is addressing.<br/>
+**Sufficient:**   It is clear which stage of the process/pipeline the solution is addressing. It is not clear how the proposed solution improves that stage.<br/>
+**Good:**         The solution provides a clear improvement in a particular stage of the ML development and release process. <br/>
+**Excellent:**    The solution provides a clear improvement in a particular stage of the ML development and release process. The connection between the improvement and the stage is justified with arguments of adequate technical depth.
 
 
 #### Novelty
@@ -96,12 +96,12 @@ How the solution fits the process-pipeline
 **Good:**         The essay presents a thorough validation of the solution. The limitations of the validation are minimal and clearly described.<br/>
 **Excellent:**    The essay presents a thorough validation of the solution using a real-world context. The limitations of the validation are minimal and clearly described.
 
-#### Impact
+<!-- #### Impact
 
 **Insufficient:** <br/>
 **Sufficient:**   <br/>
 **Good:**         <br/>
-**Excellent:**    
+**Excellent:**     -->
 
 #### Readiness
 
@@ -110,11 +110,11 @@ How the solution fits the process-pipeline
 **Good:**         The solution is available in a public repository and ready to be used by practitioners. The repo could be improved with more complete descriptions/instructions.<br/>
 **Excellent:**    The solution is available in a public repository and ready to be used by practitioners. Clear instructions on how to use and reproduce the work are described in the repo.
 
-#### Quality Control
+<!-- #### Quality Control
 
 I suggest we check this in the implementation
 
 #### Version Control
 
-I suggest we check this in the Implementation...
+I suggest we check this in the Implementation... -->
 
