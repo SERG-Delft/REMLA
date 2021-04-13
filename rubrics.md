@@ -66,13 +66,13 @@ title: Rubrics
 
 ### Solution (40%)
 
-#### Contextualization
+#### Impact in the Process
 How the solution fits the process-pipeline
 
 **Insufficient:** <br/>
 **Sufficient:**   <br/>
-**Good:**         <br/>
-**Excellent:**    
+**Good:**         It is clear which part of the process/pipeline the solution is addressing. <br/>
+**Excellent:**    The solution naturally evolves on top of the existing state-of-the-art ML development and release pipeline. It provides a clear improvement in a particular stage of the process.
 
 
 #### Novelty
@@ -105,14 +105,15 @@ How the solution fits the process-pipeline
 
 #### Readiness
 
-**Insufficient:** <br/>
-**Sufficient:**   <br/>
-**Good:**         <br/>
-**Excellent:**    The solution is available in a public repository and ready to be used by practitioners.
+**Insufficient:** The public audience cannot use the solution given the artifacts that are publicly available.<br/>
+**Sufficient:**   The solution is available in a public repository but it is somewhat difficult to understand how to use it out of the box.<br/>
+**Good:**         The solution is available in a public repository and ready to be used by practitioners. The repo could be improved with more complete descriptions/instructions.<br/>
+**Excellent:**    The solution is available in a public repository and ready to be used by practitioners. Clear instructions on how to use and reproduce the work are described in the repo.
 
 #### Quality Control
 
 I suggest we check this in the implementation
+
 #### Version Control
 
 I suggest we check this in the Implementation...
