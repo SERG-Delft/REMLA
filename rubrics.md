@@ -118,3 +118,63 @@ I suggest we check this in the implementation
 
 I suggest we check this in the Implementation...
 
+
+
+## Final Pipeline
+
+### Pass/fail
+
+To be considered as an appropriate submission, the final pipeline needs to fullfil the following requirements.
+
+- Team has established a proper CD pipeline
+- Has quality control measures
+- ..?
+
+
+### Grading
+
+#### “size” of the change
+
+- insufficient: Minor changes/extension to “tutorial pipeline”
+- sufficient: group has provided a feature that extends the existing pipeline with obvious value
+- good: the provided feature is substantial.
+- excellent: the provided feature touches multiple phases and/or has several subcomponents
+
+#### “maturity” (documentation, release status)
+
+- insufficient: The realization of the new feature is not yet stable enough to be continuously by the group
+- sufficient: The group uses the new feature themselves (“proof of concept”)
+- good: The solution is released and can be customized, simple “change pointers” are provided
+- excellent: Integration is made easy through configuration points and well defined documentation
+
+#### portability/usability (for others)
+
+- insufficient: 
+- sufficient: Necessary tools are part of the group repository
+- good: tools are released (e.g., in a Maven repository)
+- excellent: tools can be easily reused/integrated in other projects (e.g., through Docker or Maven goals)
+
+
+#### automation of quality control?
+- insufficient: just manual execution
+- sufficient: automated execution, accidental inspection
+- good: automated execution, planned inspection
+- excellent: fully automated
+
+
+#### Apply version control techniques to source code and machine learning artifacts (data, models)
+
+
+- Insufficient: Repo
+- sufficient: simple increments
+- good: “snapshots”
+- Excellent: semantic versioning
+
+
+#### ..?
+
+- Extent of CE?
+- Monitoring supports release decision?
+
+
+
