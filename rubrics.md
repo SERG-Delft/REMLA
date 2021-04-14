@@ -9,7 +9,11 @@ title: Rubrics
 
 ### General (30%)
 
+#### Background
+
 - The paper indicates mature understanding of its topic and reflects originality, college-level thought, and effort of the writer? 
+
+
 - It uses effective examples and mature reasoning to support its overall analysis.
 - The directions for the paper given by the instructor were followed appropriately.
 - Includes relevant references that motivate the work.
