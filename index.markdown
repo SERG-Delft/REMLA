@@ -37,8 +37,8 @@ After following this course, you will be able to:
  Class | Week| Summary
 -------| ----|----------|
  1     | 1   | **Lecture:** Introduction
- 3     | 1   | **Lecture:** Continuous Delivery/Deployment
- 2     | 1   | **Lab:** Deployment to XX
+ 2     | 1   | **Lecture:** Continuous Delivery/Deployment
+ 3     | 1   | **Lab:** Deployment to XX
  4     | 2   | **Lecture:** Containerization
  5     | 2   | **Lab:** Docker, Kubernetes 
  6     | 2   | **Lecture:** ML Pipelines
