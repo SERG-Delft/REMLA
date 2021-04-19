@@ -36,7 +36,7 @@ After following this course, you will be able to:
 **Please note:** The program below is tentative and is subject to change.
 
  Day   | Week| Summary
--------| ----|----------|
+------:| ---:|----------|
  19 Apr| 1   | **Lecture:** Introduction
  21 Apr| 1   | **Lecture:** Continuous Delivery/Deployment
  23 Apr| 1   | **Lab:** Deployment to XX
@@ -44,11 +44,11 @@ After following this course, you will be able to:
  28 Apr| 2   | **Lab:** Docker, Kubernetes 
  30 Apr| 2   | **Lecture:** ML Pipelines
   3 May| 3   | **Lecture:** ML Testing; Guest Lecture: [Alex Serban] on ML Best Practices
-  5 May| 3   | *Public Holiday*
+  5 May| 3   | **No class:** *Public Holiday*
   7 May| 3   | **Lab:** ML pipeline management 
  10 May| 4   | **Lecture:** Continuous Experimentation
  12 May| 4   | **Lab:** Define Metrics, Instrument App, Logging
- 14 May| 4   | *Public Holiday*
+ 14 May| 4   | **No class:** *Public Holiday*
  17 May| 5   | Literature Survey
  19 May| 5   | **Lecture:** How to write a paper / how to present
  21 May| 5   | **Feedback Session:** Review Current Pipeline, Pipeline Extension Proposal
