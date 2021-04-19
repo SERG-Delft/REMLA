@@ -5,6 +5,7 @@ title: REMLA
 
 # Release Engineering for Machine Learning
 
+📣 **Announcement:** 📣 The link to the the Zoom meeting has been announced via [Brightspace]. 
 
 In this course, we will go on a journey that starts at continuous integration and then moves on to continuous delivery, continuous deployment, and continuous experimentation. We will discuss the theory and the current research on various related subjects like containerization, testing, or monitoring and will put the learned theory into practice. As a running example, we will build a pipeline for a machine learning application, which – compared to traditional release engineering – poses additional challenges, like data versioning or model deployment.
 
@@ -42,7 +43,7 @@ After following this course, you will be able to:
  4     | 2   | **Lecture:** Containerization
  5     | 2   | **Lab:** Docker, Kubernetes 
  6     | 2   | **Lecture:** ML Pipelines
- 7     | 3   | **Lecture:** ML Testing
+ 7     | 3   | **Lecture:** ML Testing; Guest Lecture: [Alex Serban] on ML Best Practices
  8     | 3   | *Public Holiday*
  9     | 3   | **Lab:** ML pipeline management 
  10    | 4   | **Lecture:** Continuous Experimentation
@@ -78,3 +79,5 @@ After following this course, you will be able to:
 [Sebastian Proksch]: https://proks.ch
 [Luís Cruz]: https://luiscruz.github.io
 [CS4295]: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56383
+[Alex Serban]: https://cs.ru.nl/~aserban/
+[Brightspace]: https://brightspace.tudelft.nl/d2l/home/280442
