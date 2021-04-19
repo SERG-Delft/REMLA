@@ -100,12 +100,12 @@ How the solution fits the process-pipeline
 **Good:**         The essay presents a thorough validation of the solution. The limitations of the validation are minimal and clearly described.<br/>
 **Excellent:**    The essay presents a thorough validation of the solution using a real-world context. The limitations of the validation are minimal and clearly described.
 
-<!-- #### Impact
+#### Generalizability 
 
-**Insufficient:** <br/>
-**Sufficient:**   <br/>
-**Good:**         <br/>
-**Excellent:**     -->
+**Insufficient:** The solution is not ready to be used with the lab project.<br/>
+**Sufficient:**   The solution is fully integrated with the lab project.<br/>
+**Good:**         The solution is fully integrated with the lab project. On top of that, the solution works with real-world projects.<br/>
+**Excellent:**    The solution is fully integrated with the lab project. On top of that, the solution works out-of-the-box with real-world projects.
 
 #### Readiness
 

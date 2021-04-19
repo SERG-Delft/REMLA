@@ -26,7 +26,7 @@ After following this course, you will be able to:
 **Schedule**          |	Mondays, 15:45–17:45 <br/> Wednesdays, 13:45–15:45 <br/> Fridays, (?)
 **ECTS** 	            | 5.0
 **Quarter**           | Q4
-**Examination type**  | Software project (45%); Essay (45%); Presentation (10%)
+**Examination type**  | Software project (35%); Essay (60%); Presentation (5%)
 **Target audience**   |	Students of the M.Sc. programme in Computer Science
 **Requirements** 	    | - Intermediate understanding of OOP languages; <br/> - Practical experience with continuous integration; <br/> - Basic understanding of software testing principles; <br/> - Basic knowledge of machine learning techniques.
 
