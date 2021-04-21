@@ -37,7 +37,7 @@ After following this course, you will be able to:
 
  Day   | Week| Summary
 ------:| ---:|----------|
- 19 Apr| 1   | **Lecture:** Introduction
+ 19 Apr| 1   | **Lecture:** Introduction: Organization and Course Schedule ([slides](./slides/01_intro_orga.pdf)); Tutorials and Final Project ([slides](./slides/01_intro_tutorials_project.pdf)).
  21 Apr| 1   | **Lecture:** Continuous Delivery/Deployment
  23 Apr| 1   | **Lab:** Deployment to XX
  26 Apr| 2   | **Lecture:** Containerization
