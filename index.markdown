@@ -23,12 +23,12 @@ After following this course, you will be able to:
 
 **Course code**       | [CS4295]
 **Instructors**       | [Sebastian Proksch], [Luís Cruz]
-**Schedule**          |	Mondays, 15:45–17:45 <br/> Wednesdays, 13:45–15:45 <br/> Fridays, (?)
-**ECTS** 	            | 5.0
+**Schedule**          |	Mondays, 15:45–17:45 <br/> Wednesdays, 13:45–15:45 <br/> Fridays, 13:45–15:45
+**ECTS** 	          | 5.0
 **Quarter**           | Q4
 **Examination type**  | Software project (35%); Essay (60%); Presentation (5%)
 **Target audience**   |	Students of the M.Sc. programme in Computer Science
-**Requirements** 	    | - Intermediate understanding of OOP languages; <br/> - Practical experience with continuous integration; <br/> - Basic understanding of software testing principles; <br/> - Basic knowledge of machine learning techniques.
+**Requirements** 	  | - Intermediate understanding of OOP languages; <br/> - Practical experience with continuous integration; <br/> - Basic understanding of software testing principles; <br/> - Basic knowledge of machine learning techniques.
 
 
 ## Outline
