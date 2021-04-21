@@ -37,8 +37,8 @@ After following this course, you will be able to:
 
  Day   | Week| Summary
 ------:| ---:|----------|
- 19 Apr| 1   | **Lecture:** Introduction: Organization and Course Schedule ([slides](./slides/01_intro_orga.pdf)); Tutorials and Final Project ([slides](./slides/01_intro_tutorials_project.pdf)).
- 21 Apr| 1   | **Lecture:** Continuous Delivery/Deployment
+ 19&nbsp;Apr| 1   | **Lecture:** Introduction: Organization and Course Schedule ([slides](./slides/01_intro_orga.pdf)); Tutorials and Final Project ([slides](./slides/01_intro_tutorials_project.pdf)).
+ 21 Apr| 1   | **Lecture:** Continuous {Integration, Delivery, Deployment} ([slides](./slides/02_deployment.pdf)).
  23 Apr| 1   | **Lab:** Deployment to XX
  26 Apr| 2   | **Lecture:** Containerization
  28 Apr| 2   | **Lab:** Docker, Kubernetes 
@@ -57,6 +57,7 @@ After following this course, you will be able to:
  TBD   | 8   | **Feedback Session:** Sketch of Methodology or new pipeline
  TBD   | 9   | TBD
  21 Jun| 10  | **Assessment:** Essay and Presentation
+  ............  | | 
 
 
 
