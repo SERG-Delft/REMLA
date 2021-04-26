@@ -38,12 +38,12 @@ After following this course, you will be able to:
  Day   | Week| Summary
 ------:| ---:|----------|
  19&nbsp;Apr| 1   | **Lecture:** Introduction: Organization and Course Schedule ([slides](./slides/01_intro_orga.pdf)); Tutorials and Final Project ([slides](./slides/01_intro_tutorials_project.pdf)).
- 21 Apr| 1   | **Lecture:** Continuous {Integration, Delivery, Deployment} ([slides](./slides/02_deployment.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/7fv8aEHzJE3mBpU)).
- 23 Apr| 1   | **Lab:** Deployment in Practice: GitLab and Digital Ocean ([video](https://surfdrive.surf.nl/files/index.php/s/OckLMxE87Sjgs67))
+ 21 Apr| 1   | **Lecture:** Continuous {Integration, Delivery, Deployment} ([slides](./slides/02_deployment.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/fjjlQLdFm1on2Pj)).
+ 23 Apr| 1   | **Lab:** Deployment in Practice: GitLab and Digital Ocean ([video](https://surfdrive.surf.nl/files/index.php/s/bd0goJcVS4uWG6x)).
  26 Apr| 2   | **Lecture:** Containerization
  28 Apr| 2   | **Lab:** Docker, Kubernetes 
- 30 Apr| 2   | **Lecture:** ML Pipelines
-  3 May| 3   | **Lecture:** ML Testing; Guest Lecture: [Alex Serban] on ML Best Practices
+ 30 Apr| 2   | **Lecture:** ML Testing. Recommended reading.
+  3 May| 3   | **Lecture:** ML Pipelines; Guest Lecture: [Alex Serban] on ML Best Practices
   5 May| 3   | **No class:** *Public Holiday*
   7 May| 3   | **Lab:** ML pipeline management 
  10 May| 4   | **Lecture:** Continuous Experimentation
