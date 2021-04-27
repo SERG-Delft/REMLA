@@ -42,8 +42,8 @@ After following this course, you will be able to:
  23 Apr| 1   | **Lab:** Deployment in Practice: GitLab and Digital Ocean ([video](https://surfdrive.surf.nl/files/index.php/s/bd0goJcVS4uWG6x)).
  26 Apr| 2   | **Lecture:** Containerization
  28 Apr| 2   | **Lab:** Docker, Kubernetes 
- 30 Apr| 2   | **Lecture:** ML Testing. Recommended reading.
-  3 May| 3   | **Lecture:** ML Pipelines; Guest Lecture: [Alex Serban] on ML Best Practices
+ 30 Apr| 2   | **Lecture:** ML Testing. Recommended reading: *Machine learning testing: Survey, landscapes and horizons* [[1]](#1).
+  3 May| 3   | **Lecture:** ML Pipelines; Guest Lecture: [Alex Serban] on ML Best Practices. Recommended reading: *Adoption and effects of software engineering best practices in machine learning* [[4]](#4). 
   5 May| 3   | **No class:** *Public Holiday*
   7 May| 3   | **Lab:** ML pipeline management 
  10 May| 4   | **Lecture:** Continuous Experimentation
@@ -63,10 +63,10 @@ After following this course, you will be able to:
 
 ## Recommended Reading
 
-- Zhang, J. M., Harman, M., Ma, L., & Liu, Y. (2020). Machine learning testing: Survey, landscapes and horizons. IEEE Transactions on Software Engineering. [Preprint](https://arxiv.org/abs/1906.10742).
-- Haakman, M., Cruz, L., Huijgens, H., & van Deursen, A. (2020). AI Lifecycle Models Need To Be Revised. An Exploratory Study in Fintech. [Preprint](https://arxiv.org/abs/2010.02716).
-- van Oort, B., Cruz, L., Aniche, M., & van Deursen, A. (2021). The Prevalence of Code Smells in Machine Learning projects. [Preprint](https://arxiv.org/abs/2103.04146).
-- Serban, A., van der Blom, K., Hoos, H., & Visser, J. (2020, October). Adoption and effects of software engineering best practices in machine learning. In Proceedings of the 14th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). [Preprint](https://arxiv.org/abs/2007.14130).
+- <span id="1">[1]</span> - Zhang, J. M., Harman, M., Ma, L., & Liu, Y. (2020). Machine learning testing: Survey, landscapes and horizons. IEEE Transactions on Software Engineering. [Preprint](https://arxiv.org/abs/1906.10742).
+- [2] - Haakman, M., Cruz, L., Huijgens, H., & van Deursen, A. (2020). AI Lifecycle Models Need To Be Revised. An Exploratory Study in Fintech. [Preprint](https://arxiv.org/abs/2010.02716).
+- [3] - van Oort, B., Cruz, L., Aniche, M., & van Deursen, A. (2021). The Prevalence of Code Smells in Machine Learning projects. [Preprint](https://arxiv.org/abs/2103.04146).
+- <span id="4">[4]</span> - Serban, A., van der Blom, K., Hoos, H., & Visser, J. (2020, October). Adoption and effects of software engineering best practices in machine learning. In Proceedings of the 14th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). [Preprint](https://arxiv.org/abs/2007.14130).
 
 [Sebastian Proksch]: https://proks.ch
 [Luís Cruz]: https://luiscruz.github.io
