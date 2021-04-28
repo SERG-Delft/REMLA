@@ -42,7 +42,7 @@ After following this course, you will be able to:
  23 Apr| 1   | **Lab:** Deployment in Practice: GitLab and Digital Ocean ([repositories](https://gitlab.com/remla-course/2021), [video](https://surfdrive.surf.nl/files/index.php/s/bd0goJcVS4uWG6x)).
  26 Apr| 2   | **Lecture:** Containers & Orchestration ([slides](./slides/03_container_orchestration.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/rOah0G9GlaFf77B)).
  28 Apr| 2   | **Lab:** Containerization in Practice: Docker & Docker Compose ([repositories](https://gitlab.com/remla-course/2021))
- 30 Apr| 2   | **Lecture:** ML Testing. Recommended reading: *Machine learning testing: Survey, landscapes and horizons* [[1]](#1); also covering [[2]](#2) and [[3]](#3).
+ 30 Apr| 2   | **Lecture:** ML Testing. Recommended reading: *What’s your ML test score? A rubric for ML production systems.* [[1]](#1); also covering [[2]](#2) and [[3]](#3).
   3 May| 3   | **Lecture:** ML Pipelines; Guest Lecture: [Alex Serban] on ML Best Practices. Recommended reading: *Adoption and effects of software engineering best practices in machine learning* [[4]](#4). 
   5 May| 3   | **No class:** *Public Holiday*
   7 May| 3   | **Lab:** ML pipeline management 
@@ -63,9 +63,9 @@ After following this course, you will be able to:
 
 ## Recommended Reading
 
-- <span id="1">[1]</span> - Zhang, J. M., Harman, M., Ma, L., & Liu, Y. (2020). Machine learning testing: Survey, landscapes and horizons. IEEE Transactions on Software Engineering. [Preprint](https://arxiv.org/abs/1906.10742).
-- <span id="2">[2]</span> - Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley (2016). What’s your ML test score? A rubric for ML production systems. Reliable Machine Learning in the Wild - NIPS 2016 Workshop (2016) [Preprint](https://research.google/pubs/pub45742/)
-- <span id="3">[3]</span> - Sun, Z., Zhang, J. M., Harman, M., Papadakis, M., & Zhang, L. (2020, June). Automatic testing and improvement of machine translation. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (pp. 974-985). [Preprint](https://arxiv.org/abs/1910.02688)
+- <span id="1">[1]</span> - Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley (2016). What’s your ML test score? A rubric for ML production systems. Reliable Machine Learning in the Wild - NIPS 2016 Workshop (2016) [Preprint](https://research.google/pubs/pub45742/).
+- <span id="2">[2]</span> - Zhang, J. M., Harman, M., Ma, L., & Liu, Y. (2020). Machine learning testing: Survey, landscapes and horizons. IEEE Transactions on Software Engineering. [Preprint](https://arxiv.org/abs/1906.10742).
+- <span id="3">[3]</span> - Sun, Z., Zhang, J. M., Harman, M., Papadakis, M., & Zhang, L. (2020, June). Automatic testing and improvement of machine translation. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (pp. 974-985). [Preprint](https://arxiv.org/abs/1910.02688).
 - [4] - Haakman, M., Cruz, L., Huijgens, H., & van Deursen, A. (2020). AI Lifecycle Models Need To Be Revised. An Exploratory Study in Fintech. [Preprint](https://arxiv.org/abs/2010.02716).
 - [5] - van Oort, B., Cruz, L., Aniche, M., & van Deursen, A. (2021). The Prevalence of Code Smells in Machine Learning projects. [Preprint](https://arxiv.org/abs/2103.04146).
 - <span id="6">[6]</span> - Serban, A., van der Blom, K., Hoos, H., & Visser, J. (2020, October). Adoption and effects of software engineering best practices in machine learning. In Proceedings of the 14th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). [Preprint](https://arxiv.org/abs/2007.14130).
