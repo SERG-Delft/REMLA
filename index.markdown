@@ -39,9 +39,9 @@ After following this course, you will be able to:
 ------:| ---:|----------|
  19&nbsp;Apr| 1   | **Lecture:** Introduction: Organization and Course Schedule ([slides](./slides/01_intro_orga.pdf)); Tutorials and Final Project ([slides](./slides/01_intro_tutorials_project.pdf)).
  21 Apr| 1   | **Lecture:** Continuous {Integration, Delivery, Deployment} ([slides](./slides/02_deployment.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/fjjlQLdFm1on2Pj)).
- 23 Apr| 1   | **Lab:** Deployment in Practice: GitLab and Digital Ocean ([video](https://surfdrive.surf.nl/files/index.php/s/bd0goJcVS4uWG6x)).
+ 23 Apr| 1   | **Lab:** Deployment in Practice: GitLab and Digital Ocean ([repositories](https://gitlab.com/remla-course/2021), [video](https://surfdrive.surf.nl/files/index.php/s/bd0goJcVS4uWG6x)).
  26 Apr| 2   | **Lecture:** Containers & Orchestration ([slides](./slides/03_container_orchestration.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/rOah0G9GlaFf77B)).
- 28 Apr| 2   | **Lab:** Containerization in Practice: Docker & Docker Compose
+ 28 Apr| 2   | **Lab:** Containerization in Practice: Docker & Docker Compose ([repositories](https://gitlab.com/remla-course/2021))
  30 Apr| 2   | **Lecture:** ML Testing. Recommended reading: *Machine learning testing: Survey, landscapes and horizons* [[1]](#1); also covering [[2]](#2) and [[3]](#3).
   3 May| 3   | **Lecture:** ML Pipelines; Guest Lecture: [Alex Serban] on ML Best Practices. Recommended reading: *Adoption and effects of software engineering best practices in machine learning* [[4]](#4). 
   5 May| 3   | **No class:** *Public Holiday*
