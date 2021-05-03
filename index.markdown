@@ -42,7 +42,7 @@ After following this course, you will be able to:
  23 Apr| 1   | **Lab:** Deployment in Practice: GitLab and Digital Ocean ([repositories](https://gitlab.com/remla-course/2021), [video](https://surfdrive.surf.nl/files/index.php/s/bd0goJcVS4uWG6x)).
  26 Apr| 2   | **Lecture:** Containers & Orchestration ([slides](./slides/03_container_orchestration.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/rOah0G9GlaFf77B)).
  28 Apr| 2   | **Lab:** Containerization in Practice: Docker & Docker Compose ([repositories](https://gitlab.com/remla-course/2021), [video (part 1)](https://surfdrive.surf.nl/files/index.php/s/u9SXnkOF633NWnz), [video (part 2)](https://surfdrive.surf.nl/files/index.php/s/Gjw6k1WyJPsU8BE))
- 30 Apr| 2   | **Lecture:** ML Testing. Recommended reading: *What’s your ML test score? A rubric for ML production systems.* [[1]](#1); also covering [[2]](#2) and [[3]](#3) ([video](https://surfdrive.surf.nl/files/index.php/s/THOVNbAsGQ5C10p)).
+ 30 Apr| 2   | **Lecture:** ML Testing ([slides](./slides/06_ml_testing.pdf)). Recommended reading: *What’s your ML test score? A rubric for ML production systems.* [[1]](#1); also covering [[2]](#2) and [[3]](#3) ([video](https://surfdrive.surf.nl/files/index.php/s/THOVNbAsGQ5C10p)).
   3 May| 3   | **Lecture:** ML Pipelines; Guest Lecture: [Alex Serban] on ML Best Practices. Recommended reading: *Adoption and effects of software engineering best practices in machine learning* [[6]](#6). 
   5 May| 3   | **No class:** *Public Holiday*
   7 May| 3   | **Lab:** ML pipeline management 
