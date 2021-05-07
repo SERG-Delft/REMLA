@@ -46,12 +46,14 @@ Question: Could we use this Docker image for deployment? Why/Why not?
 
 In this tutorial we will use `mllint` to help improve our `SMS-Spam-Detection` project.
 
+Install: (skip this step – already installed)
+
 {% highlight Batchfile %}
 echo "mllint" >> requirements.txt
 pip install -r requirements.txt
 {% endhighlight %}
 
-Run let's run `mllint` and check its output:
+Run `mllint`:
 
 {% highlight Batchfile %}
 mllint run
@@ -60,6 +62,8 @@ mllint run
 Analyse its output and verify what it says about data version control.
 
 ## 3. Data pipeline
+
+Initiate DVC to set up our automated pipeline.
 
 {% highlight Batchfile %}
 dvc init
@@ -98,16 +102,16 @@ Add the `train` stage that runs the script `src/text_classification.py`.
 ### Demo
 
 Someone in the class will be asked to present this part of the tutorial to the whole class.
-Show us how the pipeline looks like and explain how you have specified it.
+Show how the pipeline looks like and explain how you have specified it.
 
 
 ## Remotes
 
 Previously, we have seen how to automate the execution of your data pipeline while avoiding to re-run it unnecessarily.
 
-Now, imagine the case in which you changed something and execute the pipeline. If you have more people working in your project, everyone will have to re-run the pipeline in to retrieve the same artefacts.
+Now, imagine the case in which you changed something and executed the pipeline. If you have more people working in your project, everyone will have to re-run the pipeline to retrieve the same artefacts in their local repo.
 
-To avoid such a waste of time and resources, DVC features the concept of remote: a storage that you can use to store your artefacts.
+To avoid such a waste of time and resources, DVC features the concept of `remote`: a storage that you can use to store your artefacts.
 
 Remotes can live in your local storage (local remotes 🤷‍♂️) or in a cloud storage (e.g., Amazon S3, GDrive, etc.).
 
@@ -259,6 +263,11 @@ pytest
 
 Create a new test base on our class on ML testing.
 
+
+## Final Discussion
+
+- What were your main challenges in this tutorial?
+- What are the main drawbacks of using DVC for ML projects?
 
 ## Datasets
 
