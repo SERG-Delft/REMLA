@@ -46,7 +46,7 @@ After following this course, you will be able to:
   3 May| 3   | **Lecture:** Part I – Guest Lecture: [Alex Serban] on ML Best Practices. Recommended reading: *Adoption and effects of software engineering best practices in machine learning* [[6]](#6). Part II – ML pipelines.   ([slides (part I)](./slides/07_ASerban_mleng_practices.pdf), [slides (part II)](./slides/07_ml_pipelines.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/6zfuiyvdQdzQUxi))
   5 May| 3   | **No class:** *Public Holiday*
   7 May| 3   | **Lab:** [Tutorial – ML Configuration Management](tutorials/tutorial_03_ml_pipelines) ([video](https://surfdrive.surf.nl/files/index.php/s/Gk8POX1x3tK9J8L)).  
- 10 May| 4   | **Lecture:** Continuous Experimentation. ([video](https://surfdrive.surf.nl/files/index.php/s/8wHltRwP0jYsTQM))
+ 10 May| 4   | **Lecture:** Continuous Experimentation. ([slides](./slides/08_continuous_experimentation.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/8wHltRwP0jYsTQM))
  12 May| 4   | **Lab:** Define Metrics, Instrument App, Logging
  14 May| 4   | **No class:** *Public Holiday*
  17 May| 5   | Literature Survey
