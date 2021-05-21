@@ -47,10 +47,10 @@ After following this course, you will be able to:
   5 May| 3   | **No class:** *Public Holiday*
   7 May| 3   | **Lab:** [Tutorial – ML Configuration Management](tutorials/tutorial_03_ml_pipelines) ([video](https://surfdrive.surf.nl/files/index.php/s/4hLDs3wmRzl7xM9)).  
  10 May| 4   | **Lecture:** Continuous Experimentation. ([slides](./slides/08_continuous_experimentation.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/8wHltRwP0jYsTQM))
- 12 May| 4   | **Lab:** Define Metrics, Instrument App, Logging
+ 12 May| 4   | **Lab:** Define Metrics, Instrument App, Logging.
  14 May| 4   | **No class:** *Public Holiday*
  17 May| 5   | Literature Survey
- 19 May| 5   | **Lecture:** How to write a paper / how to present
+ 19 May| 5   | **Lecture:** How to write a paper ([slides](./slides/11_how_to_write_an_academic_paper.pdf)). Presentation tips ([slides](./slides/11_presentation_tips.pdf)).
  21 May| 5   | **Feedback Session:** Review Current Pipeline, Pipeline Extension Proposal
  TBD   | 6   | **Feedback Session:** First Draft of ToC + Intro
  TBD   | 7   | **Feedback Session:** Individual Steering Meetings
