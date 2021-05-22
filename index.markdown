@@ -35,29 +35,29 @@ After following this course, you will be able to:
 
 **Please note:** The program below is tentative and is subject to change.
 
- Day   | Week| Summary
-------:| ---:|----------|
- 19&nbsp;Apr| 1   | **Lecture:** Introduction: Organization and Course Schedule ([slides](./slides/01_intro_orga.pdf)); Tutorials and Final Project ([slides](./slides/01_intro_tutorials_project.pdf)).
- 21 Apr| 1   | **Lecture:** Continuous {Integration, Delivery, Deployment} ([slides](./slides/02_deployment.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/fjjlQLdFm1on2Pj)).
- 23 Apr| 1   | **Lab:** Deployment in Practice: GitLab and Digital Ocean ([repositories](https://gitlab.com/remla-course/2021), [video](https://surfdrive.surf.nl/files/index.php/s/bd0goJcVS4uWG6x)).
- 26 Apr| 2   | **Lecture:** Containers & Orchestration ([slides](./slides/03_container_orchestration.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/rOah0G9GlaFf77B)).
- 28 Apr| 2   | **Lab:** Containerization in Practice: Docker & Docker Compose ([repositories](https://gitlab.com/remla-course/2021), [video (part 1)](https://surfdrive.surf.nl/files/index.php/s/u9SXnkOF633NWnz), [video (part 2)](https://surfdrive.surf.nl/files/index.php/s/Gjw6k1WyJPsU8BE))
- 30 Apr| 2   | **Lecture:** ML Testing. Recommended reading: *What’s your ML test score? A rubric for ML production systems.* [[1]](#1); also covering [[2]](#2) and [[3]](#3) ([slides](./slides/06_ml_testing.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/THOVNbAsGQ5C10p)).
-  3 May| 3   | **Lecture:** Part I – Guest Lecture: [Alex Serban] on ML Best Practices. Recommended reading: *Adoption and effects of software engineering best practices in machine learning* [[6]](#6). Part II – ML pipelines.   ([slides (part I)](./slides/07_ASerban_mleng_practices.pdf), [slides (part II)](./slides/07_ml_pipelines.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/6zfuiyvdQdzQUxi))
-  5 May| 3   | **No class:** *Public Holiday*
-  7 May| 3   | **Lab:** [Tutorial – ML Configuration Management](tutorials/tutorial_03_ml_pipelines) ([video](https://surfdrive.surf.nl/files/index.php/s/4hLDs3wmRzl7xM9)).  
- 10 May| 4   | **Lecture:** Continuous Experimentation. ([slides](./slides/08_continuous_experimentation.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/8wHltRwP0jYsTQM))
- 12 May| 4   | **Lab:** Define Metrics, Instrument App, Logging.
- 14 May| 4   | **No class:** *Public Holiday*
- 17 May| 5   | Literature Survey
- 19 May| 5   | **Lecture:** How to write a paper ([slides](./slides/11_how_to_write_an_academic_paper.pdf)). Presentation tips ([slides](./slides/11_presentation_tips.pdf)).
- 21 May| 5   | **Feedback Session:** Review Current Pipeline, Pipeline Extension Proposal
- TBD   | 6   | **Feedback Session:** First Draft of ToC + Intro
- TBD   | 7   | **Feedback Session:** Individual Steering Meetings
- TBD   | 8   | **Feedback Session:** Sketch of Methodology or new pipeline
- TBD   | 9   | TBD
- 21 Jun| 10  | **Assessment:** Essay and Presentation
-  ............  | | 
+ Day   | Week| Type | Summary
+------:| ---:|---|----------|
+ 19&nbsp;Apr| 1   | Lecture | Introduction: Organization and Course Schedule ([slides](./slides/01_intro_orga.pdf)); Tutorials and Final Project ([slides](./slides/01_intro_tutorials_project.pdf)).
+ 21 Apr| 1   | Lecture | Continuous {Integration, Delivery, Deployment} ([slides](./slides/02_deployment.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/fjjlQLdFm1on2Pj)).
+ 23 Apr| 1   | Lab | Deployment in Practice: GitLab and Digital Ocean ([repositories](https://gitlab.com/remla-course/2021), [video](https://surfdrive.surf.nl/files/index.php/s/bd0goJcVS4uWG6x)).
+ 26 Apr| 2   | Lecture | Containers & Orchestration ([slides](./slides/03_container_orchestration.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/rOah0G9GlaFf77B)).
+ 28 Apr| 2   | Lab | Containerization in Practice: Docker & Docker Compose ([repositories](https://gitlab.com/remla-course/2021), [video (part 1)](https://surfdrive.surf.nl/files/index.php/s/u9SXnkOF633NWnz), [video (part 2)](https://surfdrive.surf.nl/files/index.php/s/Gjw6k1WyJPsU8BE))
+ 30 Apr| 2   | Lecture | ML Testing. Recommended reading: *What’s your ML test score? A rubric for ML production systems.* [[1]](#1); also covering [[2]](#2) and [[3]](#3) ([slides](./slides/06_ml_testing.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/THOVNbAsGQ5C10p)).
+  3 May| 3   | Lecture | Part I – Guest Lecture: [Alex Serban] on ML Best Practices. Recommended reading: *Adoption and effects of software engineering best practices in machine learning* [[6]](#6). Part II – ML pipelines.   ([slides (part I)](./slides/07_ASerban_mleng_practices.pdf), [slides (part II)](./slides/07_ml_pipelines.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/6zfuiyvdQdzQUxi))
+  5 May| 3   | Free | *Public Holiday*
+  7 May| 3   | Lab | [Tutorial – ML Configuration Management](tutorials/tutorial_03_ml_pipelines) ([video](https://surfdrive.surf.nl/files/index.php/s/4hLDs3wmRzl7xM9)).  
+ 10 May| 4   | Lecture | Continuous Experimentation. ([slides](./slides/08_continuous_experimentation.pdf), [video](https://surfdrive.surf.nl/files/index.php/s/8wHltRwP0jYsTQM))
+ 12 May| 4   | Lab | Kubernetes and Monitoring ([video](https://surfdrive.surf.nl/files/index.php/s/gTj3qtHz0dyhArU))
+ 14 May| 4   | Free | *Public Holiday*
+ 17 May| 5   | Self-Study | Literature Survey
+ 19 May| 5   | Lecture | How to write a paper ([slides](./slides/11_how_to_write_an_academic_paper.pdf)). Presentation tips ([slides](./slides/11_presentation_tips.pdf)).  ([video](https://surfdrive.surf.nl/files/index.php/s/tvkTY25IgUuZwxB))
+ 21 May| 5   | Feedback | Review Current Pipeline, Pipeline Extension Proposal
+ TBD   | 6   | Feedback | First Draft of ToC + Intro
+ TBD   | 7   | Feedback | Individual Steering Meetings
+ TBD   | 8   | Feedback | Sketch of Methodology or new pipeline
+ TBD   | 9   | ?? | TBD
+ 21 Jun| 10  | Examination | Essay and Presentation
+  ............  | | | 
 
 
 
