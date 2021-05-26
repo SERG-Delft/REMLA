@@ -52,9 +52,9 @@ After following this course, you will be able to:
  17 May| 5   | Literature Survey
  19 May| 5   | **Lecture:** How to write a paper ([slides](./slides/11_how_to_write_an_academic_paper.pdf)). Presentation tips ([slides](./slides/11_presentation_tips.pdf)).
  21 May| 5   | **Feedback Session:** Review Current Pipeline, Pipeline Extension Proposal
- TBD   | 6   | **Feedback Session:** First Draft of ToC + Intro
- TBD   | 7   | **Feedback Session:** Individual Steering Meetings
- TBD   | 8   | **Feedback Session:** Sketch of Methodology or new pipeline
+ 28 May   | 6   | **Feedback Session:** First Draft of ToC + Intro
+ 4 Jun | 7   | **Feedback Session:** Individual Steering Meetings
+ 11 Jun| 8   | **Feedback Session:** Sketch of Methodology or new pipeline
  TBD   | 9   | TBD
  21 Jun| 10  | **Assessment:** Essay and Presentation
   ............  | | 
