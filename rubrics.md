@@ -9,17 +9,26 @@ title: Rubrics
 
 ### General (30%)
 
+#### Related work
+
+**Insufficient:** There is not a clear link between some references and the content of the essay, or some references come from dubious sources. <br/>
+**Sufficient:** The work includes relevant references that motivate the work.<br/>
+**Good:** The work includes relevant references that motivate the work. There is a clear and brief explanation of the contributions of each related work.<br/>
+**Excellent:** The work includes relevant references that motivate the work. There is a clear and brief explanation of the contributions of each related work. The essay pinpoints the differences between the proposed solution and the related work.
+
+#### Soundness
+
+**Insufficient:** There are arguments that are not technically sound. <br/>
+**Sufficient:** The arguments laid out are technically sound but should have been better explained. <br/>
+**Good:** The arguments laid out are technically sound. There are some arguments that lack adequate technical depth but those are not essential to the narrative. <br/>
+**Excellent:** The arguments laid out are technically sound, and of adequate technical depth.
+
 #### Background
 
-- The paper indicates mature understanding of its topic and reflects originality, college-level thought, and effort of the writer? 
-
-
-- It uses effective examples and mature reasoning to support its overall analysis.
-- The directions for the paper given by the instructor were followed appropriately.
-- Includes relevant references that motivate the work.
-- States hypothesis and specific predictions.
-- Clearly, concisely, and logically presents key concepts related to the solution and respective validation. 
-- The arguments laid out are technically sound, and of adequate technical depth.
+**Insufficient:** Key concepts should have been presented in the paper. <br/>
+**Sufficient:** There are some key concepts that should be defined but they do not affect the clarity of the paper. <br/>
+**Good:** The paper presents key concepts related to the solution and respective validation.<br/>
+**Excellent:** Clearly, concisely, and logically presents key concepts related to the solution and respective validation.
 
 
 ### Format (30%)
@@ -104,15 +113,15 @@ How the solution fits the process-pipeline
 
 **Insufficient:** The solution is not ready to be used with the lab project.<br/>
 **Sufficient:**   The solution is fully integrated with the lab project.<br/>
-**Good:**         The solution is fully integrated with the lab project. On top of that, the solution works with real-world projects.<br/>
-**Excellent:**    The solution is fully integrated with the lab project. On top of that, the solution works out-of-the-box with real-world projects.
+**Good:**         The solution is fully integrated with the lab project. On top of that, it is clear that the solution works with real-world projects.<br/>
+**Excellent:**    The solution is fully integrated with the lab project. On top of that, there are clear instructions on how to transfer the knowledge or apply the solution to real-world projects.
 
-#### Readiness
+<!-- #### Readiness
 
 **Insufficient:** The public audience cannot use the solution given the artifacts that are publicly available.<br/>
 **Sufficient:**   The solution is available in a public repository but it is somewhat difficult to understand how to use it out of the box.<br/>
 **Good:**         The solution is available in a public repository and ready to be used by practitioners. The repo could be improved with more complete descriptions/instructions.<br/>
-**Excellent:**    The solution is available in a public repository and ready to be used by practitioners. Clear instructions on how to use and reproduce the work are described in the repo.
+**Excellent:**    The solution is available in a public repository and ready to be used by practitioners. Clear instructions on how to use and reproduce the work are described in the repo. -->
 
 <!-- #### Quality Control
 
