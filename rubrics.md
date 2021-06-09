@@ -11,10 +11,10 @@ title: Rubrics
 
 #### Related work
 
-**Insufficient:** There is not a clear link between some references and the content of the essay, or some references come from dubious sources. <br/>
+**Insufficient:** There is not a clear link between some references and the content of the paper, or some references come from dubious sources. <br/>
 **Sufficient:** The work includes relevant references that motivate the work.<br/>
 **Good:** The work includes relevant references that motivate the work. There is a clear and brief explanation of the contributions of each related work.<br/>
-**Excellent:** The work includes relevant references that motivate the work. There is a clear and brief explanation of the contributions of each related work. The essay pinpoints the differences between the proposed solution and the related work.
+**Excellent:** The work includes relevant references that motivate the work. There is a clear and brief explanation of the contributions of each related work. The paper pinpoints the differences between the proposed solution and the related work.
 
 #### Soundness
 
@@ -65,12 +65,12 @@ title: Rubrics
 
 **Insufficient:** Paragraphs often lack a clear main idea, hindering the flow and understandability of the narrative.<br/>
 **Sufficient:** Some paragraphs deviate from their main idea (c.f. topic sentence).<br/>
-**Good:** All paragraphs follow one main idea and does not deviate from it. The essay is not fully clear for someone that did not follow the course.<br/>
-**Excellent:** All paragraph follow one main idea and does not deviate from it. The essay is independently readable. 
+**Good:** All paragraphs follow one main idea and does not deviate from it. The paper is not fully clear for someone that did not follow the course.<br/>
+**Excellent:** All paragraph follow one main idea and does not deviate from it. The paper is independently readable. 
 
 #### Graphics
 
-**Insufficient:** The essay should have more graphics supporting the narrative, and their quality should be improved. Sometimes, the link between the text and the figures is missing.<br/>
+**Insufficient:** The paper should have more graphics supporting the narrative, and their quality should be improved. Sometimes, the link between the text and the figures is missing.<br/>
 **Sufficient:** There are a few ideas that could have been made clear with an illustrating graphic. Sometimes, the link between the text and the figures is missing.<br/>
 **Good:** The story-line is illustrated with meaningful images and infographics. There is a clear link between the text and the figures.<br/>
 **Excellent:** The story-line is illustrated with meaningful and appealing images and infographics. There is a clear link between the text and the figures.
@@ -104,10 +104,10 @@ How the solution fits the process-pipeline
 
 #### Validation
 
-**Insufficient:** Even though the essay presents a validation of the solution, it is incomplete.<br/>
-**Sufficient:**   The essay presents a validation of the solution. The limitations of the validation are clearly described.<br/>
-**Good:**         The essay presents a thorough validation of the solution. The limitations of the validation are minimal and clearly described.<br/>
-**Excellent:**    The essay presents a thorough validation of the solution using a real-world context. The limitations of the validation are minimal and clearly described.
+**Insufficient:** Even though the paper presents a validation of the solution, it is incomplete.<br/>
+**Sufficient:**   The paper presents a validation of the solution. The limitations of the validation are clearly described.<br/>
+**Good:**         The paper presents a thorough validation of the solution. The limitations of the validation are minimal and clearly described.<br/>
+**Excellent:**    The paper presents a thorough validation of the solution using a real-world context. The limitations of the validation are minimal and clearly described.
 
 #### Generalizability 
 
