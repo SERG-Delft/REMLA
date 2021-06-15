@@ -147,18 +147,32 @@ To be considered as an appropriate submission, the final pipeline needs to fullf
 
 #### The pipeline extension introduces a substantial change over the tutorial pipeline.
 
-- **Insufficient:** Minor changes/extension compared to “tutorial pipeline”
-- **Sufficient:** Group has provided a feature that extends the existing pipeline with obvious value
-- **Good:** The provided feature is substantial, both conceptually and also from the required code/configuration.
-- **Excellent:** The provided feature touches multiple phases and/or has several subcomponents
+Insufficient
+: Minor changes/extension compared to “tutorial pipeline”
+
+Sufficient
+: Group has provided a feature that extends the existing pipeline with obvious value
+
+Good
+: The provided feature is substantial, both conceptually and also from the required code/configuration.
+
+Excellent
+: The provided feature touches multiple phases and/or has several subcomponents
 
 
 #### The used technology is appropriate.
 
-- **Insufficient:** Integrating the extension is unnatural and breaks the workflows of a common Docker/Kubernetes setup, like the tutorial project.
-- **Sufficient:** Proposed extension fits into the workflow of a common Docker/Kubernetes setup.
-- **Good:** ..?
-- **Excellent:** ..?
+Insufficient
+: Integrating the extension is unnatural and breaks the workflows of a common Docker/Kubernetes setup, like the tutorial project.
+
+Sufficient
+: Proposed extension fits into the workflow of a common Docker/Kubernetes setup.
+
+Good
+: The pipeline extension reuses and adopts existing, battle-proven approaches.
+
+Excellent
+: The pipeline reuses existing technology and applies it in a new way.
 
 <!-- 
 #### The pipeline extension is matured (documentation, release status)
@@ -169,20 +183,34 @@ To be considered as an appropriate submission, the final pipeline needs to fullf
 - **Excellent:** Integration is made easy through configuration points and well defined documentation
 -->
 
-#### The pipeline extenstion can be ported to other projects/is usable by others.
+#### The pipeline extension can be ported to other projects/is usable by others.
 
-- **Insufficient:** Pipeline cannot be replicated 
-- **Sufficient:** All necessary code and configurations are available in a public repository.
-- **Good:** Pipeline extension can be migrated to another project, the process is clearly documented.
-- **Excellent:** The pipeline extension is easy configure and reusing/integrating it in other projects if made easy (e.g., by providing reusable/configurable containers or Maven goals)
+Insufficient
+: Pipeline cannot be replicated 
+
+Sufficient
+: All necessary code and configurations are available in a public repository.
+
+Good
+: Pipeline extension can be migrated to another project, the process is clearly documented.
+
+Excellent
+: The pipeline extension is easy configure and reusing/integrating it in other projects if made easy (e.g., by providing reusable/configurable containers or Maven goals)
 
 
 #### The pipeline extension is automated and supports the release decision.
 
-- **Insufficient:** The extension requires manual execution.
-- **Sufficient:** The execution is automatically triggered, results have to be manually inspected (e.g., looking at a dashboard).
-- **Good:** The execution is automatically triggered, inspection of the results can be planned (e.g., in code review).
-- **Excellent:** Both the execution and the impact on the release decision are automated processes.
+Insufficient
+: The extension requires manual execution.
+
+Sufficient
+: The execution is automatically triggered, results have to be manually inspected (e.g., looking at a dashboard).
+
+Good
+: The execution is automatically triggered, inspection of the results can be planned (e.g., in code review).
+
+Excellent
+: Both the execution and the impact on the release decision are automated processes.
 
 
 
