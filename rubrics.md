@@ -195,7 +195,7 @@ Good
 : Pipeline extension can be migrated to another project, the process is clearly documented.
 
 Excellent
-: The pipeline extension is easy configure and reusing/integrating it in other projects if made easy (e.g., by providing reusable/configurable containers or Maven goals)
+: The pipeline extension is easy configure and reusing/integrating it in other projects is made easy (e.g., by providing reusable/configurable containers or Maven goals)
 
 
 #### The pipeline extension is automated and supports the release decision.
