@@ -181,7 +181,7 @@ Good
 Excellent
 : The work creates a novel solution that pushes the state of the art of Release Engineering or MLOps.
 
-#### Soundness
+#### Description
 
 Insufficient
 : The solution is not well-described or presents limitations that should be addressed to solve the proposed problem.
@@ -301,7 +301,7 @@ Good
 : Pipeline extension can be migrated to another project, the process is clearly documented.
 
 Excellent
-: The pipeline extension is easy to configure and reusing/integrating it in other projects is made easy (e.g., by providing reusable/configurable containers or Maven goals)
+: The pipeline extension is easy to configure and reusing/integrating it in other projects is made easy (e.g., by providing reusable/configurable containers or Maven goals).
 
 
 #### The pipeline extension is automated and supports the release decision.
