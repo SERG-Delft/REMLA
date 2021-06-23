@@ -131,7 +131,7 @@ Good
 : All paragraphs follow one main idea and does not deviate from it. The paper is not fully clear for someone that did not follow the course.
 
 Excellent
-: All paragraph follow one main idea and does not deviate from it. The paper is independently readable. 
+: All paragraphs follow one main idea and do not deviate from it. The paper is independently readable. 
 
 #### Graphics
 
