@@ -223,6 +223,8 @@ Good
 Excellent
 : The solution is fully integrated with the lab project. On top of that, there are clear instructions on how to transfer the knowledge or apply the solution to real-world projects.
 
+<!-- To add next year #### Discussion 1) boundaries of the solution, 2) main limitations 3) lessons learned-->
+
 <!-- #### Readiness
 
 Insufficient
