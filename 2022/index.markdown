@@ -16,7 +16,7 @@ In this course, we will go on a journey that starts at continuous integration an
 After following this course, you will be able to:
 
 - Apply standard techniques of release engineering;
-- Apply version control techniques to machine learning artifacts, like data or models Design a deployment pipeline for a machine learning application;
+- Apply version control techniques to machine learning artefacts, like data or models Design a deployment pipeline for a machine learning application;
 - Implement quality control techniques in a machine learning pipeline;
 - Analyze and improve existing deployment pipelines;
 - Evaluate and document design decisions in deployment pipelines.
@@ -39,24 +39,24 @@ After following this course, you will be able to:
 
  Day   | Week| Type | Summary
 ------:| ---:|---|----------|
- 19&nbsp;Apr| 1   | Lecture | Introduction: Organization and Course Schedule; Tutorials and Final Project.
- 21 Apr| 1   | Lecture | Continuous {Integration, Delivery, Deployment}.
- 23 Apr| 1   | Lab | Deployment in Practice: GitLab and Digital Ocean.
- 26 Apr| 2   | Lecture | Containers & Orchestration.
- 28 Apr| 2   | Lab | Containerization in Practice: Docker & Docker Compose.
- 30 Apr| 2   | Lecture | ML Testing. Recommended reading: *What’s your ML test score? A rubric for ML production systems.* [[1]](#1); also covering [[2]](#2) and [[3]](#3).
-  3 May| 3   | Lecture | ML pipelines.
-  7 May| 3   | Lab | Tutorial – ML Configuration Management.  
- 10 May| 4   | Lecture | Continuous Experimentation.
- 12 May| 4   | Lab | Kubernetes and Monitoring
- 14 May| 4   | Free | *Public Holiday*
- 17 May| 5   | Self-Study | Literature Survey
- 19 May| 5   | Lecture | How to write a paper. Presentation tips.
- 21 May| 5   | Feedback | Review Current Pipeline, Pipeline Extension Proposal
- 28 May| 6   | Feedback | First Draft of ToC + Intro
- 4 Jun | 7   | Feedback | Individual Steering Meetings
- 11 Jun | 8   | Feedback | Sketch of Methodology or new pipeline
- 13 Jun| 10  | Examination | Essay and Presentation
+ 22&nbsp;Apr| 1   | Lecture | Introduction: Organization and Course Schedule; Tutorials and Final Project.
+ 25 Apr| 1   | Lecture | Continuous {Integration, Delivery, Deployment}.
+ -- | 1   | Lab | Deployment in Practice: GitLab and Digital Ocean.
+ -- | 2   | Lecture | Containers & Orchestration.
+ -- | 2   | Lab | Containerization in Practice: Docker & Docker Compose.
+ -- | 2   | Lecture | ML Testing. Recommended reading: *What’s your ML test score? A rubric for ML production systems.* [[1]](#1); also covering [[2]](#2) and [[3]](#3).
+-- | 3   | Lecture | ML pipelines.
+-- | 3   | Lab | Tutorial – ML Configuration Management.  
+-- | 4   | Lecture | Continuous Experimentation.
+-- | 4   | Lab | Kubernetes and Monitoring
+-- | 4   | Free | *Public Holiday*
+-- | 5   | Self-Study | Literature Survey
+-- | 5   | Lecture | How to write a paper. Presentation tips.
+-- | 5   | Feedback | Review Current Pipeline, Pipeline Extension Proposal
+-- | 6   | Feedback | First Draft of ToC + Intro
+-- | 7   | Feedback | Individual Steering Meetings
+-- | 8   | Feedback | Sketch of Methodology or new pipeline
+ 13 Jun | 9  | Examination | Presentation
 
 
 
