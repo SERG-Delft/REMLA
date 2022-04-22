@@ -74,4 +74,4 @@ After following this course, you will be able to:
 [Sebastian Proksch]: https://proks.ch
 [Luís Cruz]: https://luiscruz.github.io
 [CS4295]: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56383
-[Brightspace]: https://brightspace.tudelft.nl/d2l/home/280442
+[Brightspace]: https://brightspace.tudelft.nl/d2l/home/399673
