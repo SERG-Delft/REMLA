@@ -28,6 +28,7 @@ After following this course, you will be able to:
 **Schedule**          |	Mondays, 13:45–15:30 <br/> Fridays, 13:45–15:30
 **ECTS** 	            | 5.0
 **Quarter**           | Q4
+**Communication**     | Mattermost: [join the REMLA 2022 team](https://mattermost.tudelft.nl/signup_user_complete/?id=fgaxpprdnj83zewkcnzt44rhrc).
 **Examination type**  | Software project (35%); Essay (60%); Presentation (5%)
 **Target audience**   |	Students of the M.Sc. programme in Computer Science
 **Requirements** 	  | - Intermediate understanding of OOP languages; <br/> - Practical experience with continuous integration; <br/> - Basic understanding of software testing principles; <br/> - Basic knowledge of machine learning techniques.
