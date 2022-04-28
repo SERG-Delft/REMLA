@@ -42,17 +42,8 @@ After following this course, you will be able to:
 ------:| ---:|---|----------|
  22&nbsp;Apr| 1   | Lecture | Introduction: Organization and Course Schedule; Tutorials and Final Project. ([Intro Slides](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_Intro_Orga.pdf), [Project Slides](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_intro_tutorials_project.pdf), [Recording](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2022%20-%20Introduction%20and%20Organization.mp4))
  25 Apr| 1   | Lecture | Continuous {Integration, Delivery, Deployment}.
- -- | 1   | Lab | Deployment in Practice: GitLab and Digital Ocean.
- -- | 2   | Lecture | Containers & Orchestration.
- -- | 2   | Lab | Containerization in Practice: Docker & Docker Compose.
- -- | 2   | Lecture | ML Testing. Recommended reading: *What’s your ML test score? A rubric for ML production systems.* [[1]](#1); also covering [[2]](#2) and [[3]](#3).
--- | 3   | Lecture | ML pipelines.
--- | 3   | Lab | Tutorial – ML Configuration Management.  
--- | 4   | Lecture | Continuous Experimentation.
--- | 4   | Lab | Kubernetes and Monitoring
--- | 4   | Free | *Public Holiday*
--- | 5   | Self-Study | Literature Survey
--- | 5   | Lecture | How to write a paper. Presentation tips.
+ -- | 2   | Video Lecture | ML Testing. Recommended reading: [[1]](#1), [[2]](#2), and [[3]](#3). ([Slides][slides_03], [Recording][video_03])
+… | | | …
 -- | 5   | Feedback | Review Current Pipeline, Pipeline Extension Proposal
 -- | 6   | Feedback | First Draft of ToC + Intro
 -- | 7   | Feedback | Individual Steering Meetings
@@ -76,3 +67,8 @@ After following this course, you will be able to:
 [Luís Cruz]: https://luiscruz.github.io
 [CS4295]: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56383
 [Brightspace]: https://brightspace.tudelft.nl/d2l/home/399673
+
+[slides_03]: https://surfdrive.surf.nl/files/index.php/s/bJeLGmshwPv1JV5
+
+[video_03]: https://surfdrive.surf.nl/files/index.php/s/6hfa4qEnPXbCHqg
+
