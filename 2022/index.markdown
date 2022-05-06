@@ -46,10 +46,11 @@ After following this course, you will be able to:
  Apr&nbsp;29| 2   |  Lecture | Containerization ([Slides](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=04_container_orchestration.pdf), [Recording](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2029%20-%20Containers%20and%20Orchestration.mp4))
  May&nbsp;2 | 3   |  Tutorial | Continuous Delivery with GitHub: Versioning and Registries<br/>([SMS App](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%202%20-%20Tutorial%20on%20Docker%20and%20Github%20Actions.mp4), [MyWeb](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%205%20-%20Tutorial%20Part%202%20-%20MyWeb.mp4), [MyLib](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%205%20-%20Tutorial%20Part%203%20-%20MyLib.mp4))
  May&nbsp;4 | 3   |  Video Lecture | From Docker Compose to Kubernetes
- May&nbsp;6 | 3   | Lecture | ML Pipelines
- May&nbsp;9 | 4   | Lecture | ML Config Management
+ May&nbsp;6 | 3   | Lecture | ML Pipelines & Code Quality
+ May&nbsp;9 | 4   | Tutorial  | ML Config Management
  May&nbsp;11 | 4   | Lecture | Monitoring and Continuous Experimentation
  May&nbsp;13 | 4   | Lecture | Tutorial: Monitoring your Kubernetes Deployment
+ May&nbsp;16 | 4   | Tutorial | Automating data validation with TFDV. By [Arumoy Shome](https://arumoy.me).
 -- | 5   | Feedback | Review Current Pipeline, Pipeline Extension Proposal
 -- | 6   | Feedback | First Draft of ToC + Intro
 -- | 7   | Feedback | Individual Steering Meetings
