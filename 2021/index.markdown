@@ -1,6 +1,7 @@
 ---
 layout: default
-title: REMLA
+title: 2021
+hide_from_navbar: false
 ---
 
 # Release Engineering for Machine Learning

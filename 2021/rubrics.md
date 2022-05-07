@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rubrics
+hide_from_navbar: true
 ---
 # Rubrics
 ![Rubric clipart]({{ "img/rubric.svg" | relative_url }}){: height="100px" style="float:right; position:relative; top:-3em"}

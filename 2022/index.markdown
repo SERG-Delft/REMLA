@@ -1,6 +1,7 @@
 ---
 layout: default
-title: REMLA
+title: 2022
+hide_from_navbar: false
 redirect_from:
   - /
 ---
