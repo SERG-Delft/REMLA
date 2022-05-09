@@ -13,7 +13,6 @@ and version control artefacts, and we will use pylint to test some common ML sce
 
 - Initial Project: https://github.com/luiscruz/SMS-Spam-Detection
     - still needs a ton of refactoring
-- Breakout rooms
 - Everyone codes
 - One team does a demo at the end
 
