@@ -14,7 +14,7 @@ Hence, by the end of week 5 (May 16–20) you should already have most of these 
 - Version control
 <!-- - Git + DVC -->
 - Unit tests
-- Static analysis tools:
+- Static analysis tools.
 <!-- - pylint, dsslinter, mllint -->
 - Github Actions
   
