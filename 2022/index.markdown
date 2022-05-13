@@ -41,17 +41,16 @@ After following this course, you will be able to:
 
  Day   | Week| Type | Summary
 :------| ---:|---|----------|
- Apr&nbsp;22| 1   | Lecture | Introduction: Organization and Course Schedule; Tutorials and Final Project. ([Intro Slides](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_Intro_Orga.pdf), [Project Slides](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_intro_tutorials_project.pdf), [Recording](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2022%20-%20Introduction%20and%20Organization.mp4))
- Apr&nbsp;25| 1   | Lecture | Continuous {Integration, Delivery, Deployment}<br/>([Slides](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=02_continuous_x.pdf), [Recording](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2025%20-%20Continuous%20X.mp4)  )
+ Apr&nbsp;22| 1   | Lecture | Introduction: Organization and Course Schedule; Tutorials and Final Project. ([Intro Slides][slides_01a], [Project Slides][slides_01b], [Recording][video_01]
+ Apr&nbsp;25| 1   | Lecture | Continuous {Integration, Delivery, Deployment}<br/>([Slides][slides_02], [Recording][video_02] )
  Apr&nbsp;28| 2   | Video Lecture | ML Testing. Recommended reading: [[1]](#1), [[2]](#2), and [[3]](#3)<br/>([Slides][slides_03], [Recording][video_03])
- Apr&nbsp;29| 2   |  Lecture | Containerization ([Slides](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=04_container_orchestration.pdf), [Recording](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2029%20-%20Containers%20and%20Orchestration.mp4))
- May&nbsp;2 | 3   |  Tutorial | Continuous Delivery with GitHub: Versioning and Registries<br/>([SMS App](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%202%20-%20Tutorial%20on%20Docker%20and%20Github%20Actions.mp4), [MyWeb](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%205%20-%20Tutorial%20Part%202%20-%20MyWeb.mp4), [MyLib](https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%205%20-%20Tutorial%20Part%203%20-%20MyLib.mp4))
- May&nbsp;4 | 3   |  Video Lecture | From Docker Compose to Kubernetes
- May&nbsp;6 | 3   | Lecture | ML Pipelines & Code Quality ([Slides][slides_07], [Video][video_07])
+ Apr&nbsp;29| 2   |  Lecture | Containerization ([Slides][slides_04], [Recording][video_04])
+ May&nbsp;2 | 3   |  Tutorial | Continuous Delivery with GitHub: Versioning and Registries<br/>(No Slides, Recordings: [SMS App][video_05a], [MyWeb][video_05b], [MyLib][video_05c])
+ May&nbsp;6 | 3   | Lecture | ML Pipelines & Code Quality ([Slides][slides_07], [Recording][video_07])
  May&nbsp;9 | 4   | Tutorial  | Tutorial 2: [ML Configuration Management]
- May&nbsp;11 | 4   | Lecture | Monitoring and Continuous Experimentation
- May&nbsp;13 | 4   | Lecture | Tutorial: Monitoring your Kubernetes Deployment
- May&nbsp;16 | 4   | Tutorial | Automating data validation with TFDV. By [Arumoy Shome](https://arumoy.me).
+ May&nbsp;11 | 4   | Video Tutorial | Kubernetes Introduction ([Slides][slides_08], [Recording][video_08])
+ May&nbsp;13 | 4   | Lecture | Continuous Experimentation
+ May&nbsp;16 | 5   | Tutorial | Automating data validation with TFDV. By [Arumoy Shome](https://arumoy.me).
 -- | 5   | Feedback | Review Current Pipeline, Pipeline Extension Proposal
 -- | 6   | Feedback | First Draft of ToC + Intro
 -- | 7   | Feedback | Individual Steering Meetings
@@ -78,10 +77,22 @@ Jun&nbsp;13 | 9  | Examination | Presentation
 [CS4295]: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56383
 [Brightspace]: https://brightspace.tudelft.nl/d2l/home/399673
 
+[slides_01a]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_Intro_Orga.pdf
+[slides_01b]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_intro_tutorials_project.pdf
+[slides_02]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=02_continuous_x.pdf
 [slides_03]: https://surfdrive.surf.nl/files/index.php/s/bJeLGmshwPv1JV5
+[slides_04]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=04_container_orchestration.pdf
 [slides_07]: https://surfdrive.surf.nl/files/index.php/s/Q3E9bGXOfrcK3OQ
+[slides_08]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=08_kubernetes_intro.pdf
 
+[video_01]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2022%20-%20Introduction%20and%20Organization.mp4
+[video_02]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2025%20-%20Continuous%20X.mp4
 [video_03]: https://surfdrive.surf.nl/files/index.php/s/6hfa4qEnPXbCHqg
+[video_04]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2029%20-%20Containers%20and%20Orchestration.mp4
+[video_05a]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%202%20-%20Tutorial%20on%20Docker%20and%20Github%20Actions.mp4
+[video_05b]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%205%20-%20Tutorial%20Part%202%20-%20MyWeb.mp4
+[video_05c]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%205%20-%20Tutorial%20Part%203%20-%20MyLib.mp4
 [video_07]: https://surfdrive.surf.nl/files/index.php/s/Dn7F2yUW3xzeMYo
+[video_08]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=08_kubernetes_intro.mp4
 
 [ML Configuration Management]: ./tutorials/tutorial_02_ml_pipelines
