@@ -50,7 +50,7 @@ After following this course, you will be able to:
  May&nbsp;9 | 4   | Tutorial  | Tutorial 2: [ML Configuration Management]
  May&nbsp;11 | 4   | Video Tutorial | Kubernetes Introduction ([Slides][slides_08], [Recording][video_08])
  May&nbsp;13 | 4   | Lecture | Continuous Experimentation
- May&nbsp;16 | 5   | Tutorial | Automating data validation with TFDV. By [Arumoy Shome](https://arumoy.me).
+ May&nbsp;16 | 5   | Tutorial | Automating data validation with TFDV. [Setup instructions](https://github.com/arumoy-shome/remla). By [Arumoy Shome](https://arumoy.me).
 -- | 5   | Feedback | Review Current Pipeline, Pipeline Extension Proposal
 -- | 6   | Feedback | First Draft of ToC + Intro
 -- | 7   | Feedback | Individual Steering Meetings
