@@ -11,12 +11,12 @@ Hence, by the end of week 5 (May 16–20) you should already have most of these 
 - Convert notebook into a Python project. Proper file structure.
 - Pipeline management automation.
 <!-- - DVC -->
-- Version control
+- Version control.
 <!-- - Git + DVC -->
-- Unit tests
+- Unit tests.
 - Static analysis tools.
 <!-- - pylint, dsslinter, mllint -->
-- Github Actions
+- Github Actions.
   
 
 [baseline project]: https://github.com/luiscruz/remla-baseline-project
