@@ -20,4 +20,6 @@ Hence, by the end of week 5 (May 16–20) you should already have most of these 
 - Orchestration of the application.
 - Monitoring application metrics.
 
+After implementing the requirements above you should start working on the extension you proposed.
+
 [baseline project]: https://github.com/luiscruz/remla-baseline-project
