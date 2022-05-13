@@ -9,14 +9,15 @@ As part of your final project you need to pick up the [baseline project] and imp
 Hence, by the end of week 5 (May 16–20) you should already have most of these tasks set up:
 
 - Convert notebook into a Python project. Proper file structure.
-- Pipeline management automation.
+- Pipeline automation.
 <!-- - DVC -->
 - Version control.
 <!-- - Git + DVC -->
-- Unit tests.
+- Unit tests. (at least 1)
 - Static analysis tools.
 <!-- - pylint, dsslinter, mllint -->
 - Github Actions.
-  
+- Orchestration of the application.
+- Monitoring application metrics.
 
 [baseline project]: https://github.com/luiscruz/remla-baseline-project
