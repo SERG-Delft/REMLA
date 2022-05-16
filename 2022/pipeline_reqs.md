@@ -19,6 +19,7 @@ Hence, by the end of week 5 (May 16–20) you should already have most of these 
 - Github Actions.
 - Orchestration of the application.
 - Monitoring application metrics.
+- Data validation.
 
 After implementing the requirements above you should start working on the extension you proposed.
 
