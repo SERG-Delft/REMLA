@@ -21,6 +21,6 @@ Hence, by the end of week 5 (May 16–20) you should already have most of these 
 - Monitoring application metrics.
 - Data validation.
 
-After implementing the requirements above you should start working on the extension you proposed.
+After implementing the requirements above you should start working on the extension you proposed. Note that this is a soft deadline, agree with your coach what is the best deadline for your group.
 
 [baseline project]: https://github.com/luiscruz/remla-baseline-project
