@@ -47,10 +47,10 @@ After following this course, you will be able to:
  Apr&nbsp;29| 2   |  Lecture | Containerization ([Slides][slides_04], [Recording][video_04])
  May&nbsp;2 | 3   |  Tutorial | Continuous Delivery with GitHub: Versioning and Registries<br/>(No Slides, Recordings: [SMS App][video_05a], [MyWeb][video_05b], [MyLib][video_05c])
  May&nbsp;6 | 3   | Lecture | ML Pipelines & Code Quality ([Slides][slides_07], [Recording][video_07])
- May&nbsp;9 | 4   | Tutorial  | Tutorial 2: [ML Configuration Management]
+ May&nbsp;9 | 4   | Tutorial  | Tutorial 2: ML Configuration Management<br/> ([Instructions][ML Configuration Management], [Recording][video_07b])
  May&nbsp;11 | 4   | Video Tutorial | Kubernetes Introduction ([Slides][slides_08], [Recording][video_08])
- May&nbsp;13 | 4   | Lecture | Continuous Experimentation
- May&nbsp;16 | 5   | Tutorial | Automating data validation with TFDV. [Set-up instructions](https://github.com/arumoy-shome/remla). By [Arumoy Shome](https://arumoy.me).
+ May&nbsp;13 | 4   | Lecture | Continuous Experimentation ([Slides][slides_09], [Recording][video_09])
+ May&nbsp;16 | 5   | Tutorial | Automating data validation with TFDV by [Arumoy Shome](https://arumoy.me) ([Instructions](https://github.com/arumoy-shome/remla), Slides (TODO), [Recording][video_10])
 -- | 5   | Feedback | Review Current Pipeline, Pipeline Extension Proposal. See [requirements checklist](./pipeline_reqs).
 -- | 6   | Feedback | First Draft of ToC + Intro
 -- | 7   | Feedback | Individual Steering Meetings
@@ -84,6 +84,7 @@ Jun&nbsp;13 | 9  | Examination | Presentation
 [slides_04]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=04_container_orchestration.pdf
 [slides_07]: https://surfdrive.surf.nl/files/index.php/s/Q3E9bGXOfrcK3OQ
 [slides_08]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=08_kubernetes_intro.pdf
+[slides_09]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=09_continuous_experimentation.pdf
 
 [video_01]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2022%20-%20Introduction%20and%20Organization.mp4
 [video_02]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2025%20-%20Continuous%20X.mp4
@@ -93,6 +94,9 @@ Jun&nbsp;13 | 9  | Examination | Presentation
 [video_05b]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%205%20-%20Tutorial%20Part%202%20-%20MyWeb.mp4
 [video_05c]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%205%20-%20Tutorial%20Part%203%20-%20MyLib.mp4
 [video_07]: https://surfdrive.surf.nl/files/index.php/s/Dn7F2yUW3xzeMYo
+[video_07b]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=May%2009%20-%20Tutorial%20on%20ML%20Config%20Management.mp4
 [video_08]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=08_kubernetes_intro.mp4
+[video_09]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=09_continuous_experimentation.mp4
+[video_10]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=10_tensor_flow_data_validation.mp4
 
 [ML Configuration Management]: ./tutorials/tutorial_02_ml_pipelines
