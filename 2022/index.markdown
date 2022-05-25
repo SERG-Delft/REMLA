@@ -52,6 +52,7 @@ After following this course, you will be able to:
  May&nbsp;13 | 4   | Lecture | Continuous Experimentation ([Slides][slides_09], [Recording][video_09])
  May&nbsp;16 | 5   | Tutorial | Automating data validation with TFDV by [Arumoy Shome](https://arumoy.me) ([Instructions](https://github.com/arumoy-shome/remla), Slides (TODO), [Recording][video_10])
 -- | 5   | Feedback | Review Current Pipeline, Pipeline Extension Proposal. See [requirements checklist](./pipeline_reqs).
+-- | 6   | Tutorial | Monitoring in Kubernetes ([Recording][video_11])
 -- | 6   | Feedback | First Draft of ToC + Intro
 -- | 7   | Feedback | Individual Steering Meetings
 -- | 8   | Feedback | Individual Steering Meetings
@@ -98,5 +99,6 @@ Jun&nbsp;13 | 9  | Examination | Presentation
 [video_08]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=08_kubernetes_intro.mp4
 [video_09]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=09_continuous_experimentation.mp4
 [video_10]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=10_tensor_flow_data_validation.mp4
+[video_11]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=11_monitoring_in_kubernetes.mp4
 
 [ML Configuration Management]: ./tutorials/tutorial_02_ml_pipelines
