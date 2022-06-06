@@ -56,7 +56,9 @@ After following this course, you will be able to:
 -- | 6   | Instructions | **How to write an academic paper?**<br/>([Slides][slides_13], [Start with why][yt-sinek], [Recording][video_13])
 -- | 6   | Feedback | Focus: **Review First Draft of ToC + Intro**
 -- | 7   | Feedback | **Individual Steering Meetings**
+-- | 8   | Instructions | **Presentation tips**<br/>([Slides][slides_14], [Recording][video_14])
 -- | 8   | Feedback | **Individual Steering Meetings**
+
 Jun&nbsp;13 | 9  | Examination | **Presentation**
 
 
@@ -85,6 +87,7 @@ Jun&nbsp;13 | 9  | Examination | **Presentation**
 [slides_08]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=08_kubernetes_intro.pdf
 [slides_09]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=09_continuous_experimentation.pdf
 [slides_13]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=13_how_to_write_an_academic_paper.pdf
+[slides_14]: https://surfdrive.surf.nl/files/index.php/s/j3EnLiYRQdve1s9
 
 [video_01]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2022%20-%20Introduction%20and%20Organization.mp4
 [video_02]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=Apr%2025%20-%20Continuous%20X.mp4
@@ -100,6 +103,7 @@ Jun&nbsp;13 | 9  | Examination | **Presentation**
 [video_10]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=10_tensor_flow_data_validation.mp4
 [video_11]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=11_monitoring_in_kubernetes.mp4
 [video_13]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Frecordings&files=13_how_to_write_an_academic_paper.mp4
+[video_14]: https://surfdrive.surf.nl/files/index.php/s/DIi01yI9GYzlpte
 
 [yt-sinek]: https://www.youtube.com/watch?v=u4ZoJKF_VuA
 [ML Configuration Management]: ./tutorials/tutorial_02_ml_pipelines
