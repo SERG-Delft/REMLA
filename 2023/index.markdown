@@ -1,7 +1,9 @@
 ---
 layout: default
-title: 2022
+title: 2023
 hide_from_navbar: false
+redirect_from:
+  - /
 ---
 
 # Release Engineering for Machine Learning
@@ -24,10 +26,10 @@ After following this course, you will be able to:
 
 **Course code**       | [CS4295]
 **Instructors**       | [Sebastian Proksch], [Luís Cruz]
-**Schedule**          |	Mondays, 13:45–15:30 <br/> Fridays, 13:45–15:30
+**Schedule**          |	Mondays, 13:45–15:30 <br/> Fridays, 10:45–12:30 <br/> Fridays, 13:45–15:30
 **ECTS** 	            | 5.0
 **Quarter**           | Q4
-**Communication**     | Mattermost: [join the REMLA 2022 team](https://mattermost.tudelft.nl/signup_user_complete/?id=fgaxpprdnj83zewkcnzt44rhrc).
+**Communication**     | Mattermost: [join the REMLA 2023 team](https://mattermost.tudelft.nl/signup_user_complete/?id=s9yxycja33bgzprnp19mpkxqso&md=link&sbr=su).
 **Examination type**  | Software project (35%); Essay (60%); Presentation (5%)
 **Target audience**   |	Students of the M.Sc. programme in Computer Science
 **Requirements** 	  | - Intermediate understanding of OOP languages; <br/> - Practical experience with continuous integration; <br/> - Basic understanding of software testing principles; <br/> - Basic knowledge of machine learning techniques.
@@ -39,8 +41,10 @@ After following this course, you will be able to:
 
  Day   | Week| Type | Summary
 :------| ---:|---|----------|
- Apr&nbsp;22| 1   | Lecture | **Intro: Organization and Course Schedule; Tutorials and Final Project** (Slides: [Intro][slides_01a]/[Project][slides_01b], [Recording][video_01]
- Apr&nbsp;25| 1   | Lecture | **Continuous {Integration, Delivery, Deployment}**<br/>([Slides][slides_02], [Recording][video_02] )
+ Apr&nbsp;24| 1   | Lecture | **Intro: Organization and Course Schedule; Tutorials and Final Project** <!-- (Slides: [Intro][slides_01a]/[Project][slides_01b], [Recording][video_01]) -->
+ Apr&nbsp;26| 1   | Lecture | **Continuous {Integration, Delivery, Deployment}**<!-- <br/>([Slides][slides_02], [Recording][video_02] ) -->
+
+<!--
  Apr&nbsp;28| 2   | Video&nbsp;Lecture | **ML Testing**<br/>(Rec. reading: [[1]](#1), [[2]](#2), [[3]](#3), [Slides][slides_03], [Recording][video_03])
  Apr&nbsp;29| 2   |  Lecture | **Containerization** ([Slides][slides_04], [Recording][video_04])
  May&nbsp;2 | 3   |  Tutorial | **Cont. Delivery with GitHub: Versioning and Registries**<br/>(No Slides, Recordings: [SMS App][video_05a], [MyWeb][video_05b], [MyLib][video_05c])
@@ -55,12 +59,13 @@ After following this course, you will be able to:
 -- | 6   | Feedback | Focus: **Review First Draft of ToC + Intro**
 -- | 7   | Feedback | **Individual Steering Meetings**
 -- | 8   | Instructions | **Presentation tips**<br/>([Slides][slides_14], [Recording][video_14])
--- | 8   | Feedback | **Individual Steering Meetings**
+-- | 8   | Feedback | **Individual Steering Meetings** -->
 
-Jun&nbsp;13 | 9  | Examination | **Presentation**
+Jun&nbsp;19 | 9  | Examination | **Presentation**
 
 
 ## Recommended Reading
+
 
 - <span id="1">[1]</span> - Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley (2016). What’s your ML test score? A rubric for ML production systems. Reliable Machine Learning in the Wild - NIPS 2016 Workshop (2016) [Preprint](https://research.google/pubs/pub45742/).
 - <span id="2">[2]</span> - Zhang, J. M., Harman, M., Ma, L., & Liu, Y. (2020). Machine learning testing: Survey, landscapes and horizons. IEEE Transactions on Software Engineering. [Preprint](https://arxiv.org/abs/1906.10742).
@@ -68,13 +73,13 @@ Jun&nbsp;13 | 9  | Examination | **Presentation**
 - [4] - Haakman, M., Cruz, L., Huijgens, H., & van Deursen, A. (2020). AI Lifecycle Models Need To Be Revised. An Exploratory Study in Fintech. [Preprint](https://arxiv.org/abs/2010.02716).
 - [5] - van Oort, B., Cruz, L., Aniche, M., & van Deursen, A. (2021). The Prevalence of Code Smells in Machine Learning projects. [Preprint](https://arxiv.org/abs/2103.04146).
 - <span id="6">[6]</span> - Serban, A., van der Blom, K., Hoos, H., & Visser, J. (2020, October). Adoption and effects of software engineering best practices in machine learning. In Proceedings of the 14th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). [Preprint](https://arxiv.org/abs/2007.14130).
-
+- <span id="7">[7]</span> - Christian Kästner. Machine Learning in Production: From Models to Products. [Book chapters](https://ckaestne.medium.com/machine-learning-in-production-book-overview-63be62393581)
 
 
 [Sebastian Proksch]: https://proks.ch
 [Luís Cruz]: https://luiscruz.github.io
-[CS4295]: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56383
-[Brightspace]: https://brightspace.tudelft.nl/d2l/home/399673
+[CS4295]: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61258
+[Brightspace]: https://brightspace.tudelft.nl/d2l/home/499353
 
 [slides_01a]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_Intro_Orga.pdf
 [slides_01b]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_intro_tutorials_project.pdf
