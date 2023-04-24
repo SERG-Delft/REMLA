@@ -24,6 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/remla" # the subpath of your site, e.g. /blog
 url: "https://se.ewi.tudelft.nl/" # the base hostname & protocol for your site, e.g. http://example.com
 
+surfdrive_id: "207BTysNQFuVZPE" # the hash from a surfdrive link
+surfdrive: "https://surfdrive.surf.nl/files/index.php/s/207BTysNQFuVZPE"
+
+
 # Build settings
 theme: minima
 plugins:
