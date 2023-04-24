@@ -1,11 +1,15 @@
 # frozen_string_literal: true
-
 source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
+gem "jekyll", "~> 4.2.1"
+
+gem "just-the-docs"
+gem "minima", "~> 2.5"
+
+
 group :jekyll_plugins do
-  gem "github-pages"
   gem 'jekyll-redirect-from'
-  gem "minima", "~> 2.5"
+  gem "jekyll-feed", "~> 0.12"
 end

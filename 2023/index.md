@@ -8,29 +8,17 @@ redirect_from:
 
 # Release Engineering for Machine Learning
 
-📣 **Announcement:** 📣 The link to the the Zoom meeting will be shared via [Brightspace] before the class. 
-
 In this course, we will go on a journey that starts at continuous integration and then moves on to continuous delivery, continuous deployment, and continuous experimentation. We will discuss the theory and the current research on various related subjects like containerization, testing, or monitoring and will put the learned theory into practice. As a running example, we will build a pipeline for a machine learning application, which – compared to traditional release engineering – poses additional challenges, like data versioning or model deployment.
-
-## Learning Objectives
-
-After following this course, you will be able to:
-
-- Apply standard techniques of release engineering;
-- Apply version control techniques to machine learning artefacts, like data or models Design a deployment pipeline for a machine learning application;
-- Implement quality control techniques in a machine learning pipeline;
-- Analyze and improve existing deployment pipelines;
-- Evaluate and document design decisions in deployment pipelines.
 
 ## Organization
 
-**Course code**       | [CS4295]
+**Course code**       | CS4295 ([Studyguide][Studyguide], [Brightspace][Brightspace])
 **Instructors**       | [Sebastian Proksch], [Luís Cruz]
-**Schedule**          |	Mondays, 13:45–15:30 <br/> Fridays, 10:45–12:30 <br/> Fridays, 13:45–15:30
+**Lectures**          |	Mondays, 13:45–15:30 <br/> Wednesdays, 10:45–12:30 <br/> Fridays, 13:45–15:30 <br /> (Note that the schedule varies by week)
+**Zoom**              | You can find the link on Brightspace.
 **ECTS** 	            | 5.0
 **Quarter**           | Q4
-**Communication**     | Mattermost: [join the REMLA 2023 team](https://mattermost.tudelft.nl/signup_user_complete/?id=s9yxycja33bgzprnp19mpkxqso&md=link&sbr=su).
-**Examination type**  | Software project (35%); Essay (60%); Presentation (5%)
+**Examination type**  | Software project (55%); Essay (40%); Presentation (5%)
 **Target audience**   |	Students of the M.Sc. programme in Computer Science
 **Requirements** 	  | - Intermediate understanding of OOP languages; <br/> - Practical experience with continuous integration; <br/> - Basic understanding of software testing principles; <br/> - Basic knowledge of machine learning techniques.
 
@@ -41,7 +29,7 @@ After following this course, you will be able to:
 
  Day   | Week| Type | Summary
 :------| ---:|---|----------|
- Apr&nbsp;24| 1   | Lecture | **Intro: Organization and Course Schedule; Tutorials and Final Project** <!-- (Slides: [Intro][slides_01a]/[Project][slides_01b], [Recording][video_01]) -->
+ Apr&nbsp;24| 1   | Lecture | **Intro: Course Design and Course Schedule; Project Details** (Slides: [Intro][intro-slides-orga]/[Project][intro-slides-project], [Recording][intro-video])
  Apr&nbsp;26| 1   | Lecture | **Continuous {Integration, Delivery, Deployment}**<!-- <br/>([Slides][slides_02], [Recording][video_02] ) -->
 
 <!--
@@ -78,11 +66,13 @@ Jun&nbsp;19 | 9  | Examination | **Presentation**
 
 [Sebastian Proksch]: https://proks.ch
 [Luís Cruz]: https://luiscruz.github.io
-[CS4295]: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61258
+[Studyguide]: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61258
 [Brightspace]: https://brightspace.tudelft.nl/d2l/home/499353
 
-[slides_01a]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_Intro_Orga.pdf
-[slides_01b]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=01_intro_tutorials_project.pdf
+[intro-slides-orga]: {%surfdrive /material/01_intro_orga.pdf%}
+[intro-slides-project]: {%surfdrive /material/01_intro_project.pdf%}
+[intro-video]: {%surfdrive /recordings/01_intro_video.mp4%}
+
 [slides_02]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=02_continuous_x.pdf
 [slides_03]: https://surfdrive.surf.nl/files/index.php/s/bJeLGmshwPv1JV5
 [slides_04]: https://surfdrive.surf.nl/files/index.php/s/QbMlMqQDYVGGBWM/download?path=%2Fslide-exports&files=04_container_orchestration.pdf
