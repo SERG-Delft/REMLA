@@ -1,0 +1,75 @@
+$tud-blue: #00a6d6;
+
+$link-color: $tud-blue;
+$btn-primary-color: $tud-blue !default;
+
+.btn-tud {
+  @include btn-color($white, $tud-blue);
+  color: white !important;
+}
+
+.text-tud {
+  color: $tud-blue;
+}
+
+.generated-date {
+  font-size: 10px;
+  color: #ccc;
+}
+
+$callouts: (
+  info: (
+    $tud-blue,
+    rgba($tud-blue, 0.1),
+    "INFO",
+  ),
+  recommendation: (
+    $green-300,
+    rgba($green-300, 0.1),
+    "RECOMMENDATION",
+  ),
+  caution: (
+    $yellow-300,
+    rgba($yellow-000, 0.1),
+    "CAUTION",
+  ),
+  important: (
+    $red-300,
+    rgba($red-000, 0.1),
+    "IMPORTANT",
+  )
+);
+
+@each $class, $props in $callouts {
+  .#{$class} {
+    background: nth($props, 2);
+    border-left: $border-radius solid nth($props, 1);
+    border-radius: $border-radius;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+    padding: 0.8rem;
+
+    &::before {
+      color: nth($props, 1);
+      content: nth($props, 3);
+      display: block;
+      font-weight: bold;
+      font-size: 0.75em;
+      padding-bottom: 0.125rem;
+    }
+  }
+}
+
+.youtube-wrapper {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}

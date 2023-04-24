@@ -1,62 +1,35 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+theme: "just-the-docs"
+
+exclude:
+  - "*.pxm"
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 title: REMLA
 description: >- # this means to ignore newlines until "baseurl:"
   Release Engineering for Machine Learning Applications (CS4295).
 baseurl: "/remla" # the subpath of your site, e.g. /blog
 url: "https://se.ewi.tudelft.nl/" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:categories/:title/
 
 surfdrive_id: "207BTysNQFuVZPE" # the hash from a surfdrive link
 surfdrive: "https://surfdrive.surf.nl/files/index.php/s/207BTysNQFuVZPE"
 
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      hide_from_navbar: true
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# OOPP Specific things ----------------------------------------------------------------------------------------
+color_scheme: tudelft
+logo: "assets/images/tudelft.png"
+# Links that show in the top right
+aux_links:
+  "Brightspace":
+    - "https://brightspace.tudelft.nl/d2l/home/499353"
+  "Studyguide":
+    - "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61258"
+aux_links_new_tab: false

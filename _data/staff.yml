@@ -1,0 +1,22 @@
+lecturers:
+  
+  - name: Sebastian Proksch
+    email: S.Proksch at tudelft nl
+    function: Assistant Professor
+    research_group: SERG, Assistant Professor
+    research_group_url: https://serg.ewi.tudelft.nl
+    photo: /assets/images/staff/SP.jpg
+  
+  - name: Luís Cruz
+    email: L.Cruz at tudelft nl
+    function: Assistant Professor
+    research_group: SERG, Assistant Professor
+    research_group_url: https://serg.ewi.tudelft.nl
+    photo: /assets/images/staff/LC.jpg
+
+tas:
+    
+  - name: TBD
+    email: E
+    netid: N
+
