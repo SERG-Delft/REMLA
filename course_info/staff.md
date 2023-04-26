@@ -20,14 +20,13 @@ parent: Course Info
                 {{ lecturer.research_group }}
             </p>
         </td>
-        <td>{{ lecturer.email }}</td>
+        <td> <a href="mailto:{{ lecturer.email }}">{{ lecturer.email }}</a></td>
     </tr>
     {% endfor %}
     </tbody>
 </table>
 
-*Important:* Only reach out directly to the lecturers in matters that cannot be discussed publicly in the Mattermost channels. If your concerns requires a direct message though, please use email.
-
+_Important:_ Only reach out directly to the lecturers in matters that cannot be discussed publicly in the Mattermost channels. If your concerns requires a direct message though, please use email.
 
 ## TAs
 
