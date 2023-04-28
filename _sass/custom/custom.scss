@@ -1,3 +1,14 @@
 .main-content h4 {
 	font-size: 14px !important;
 }
+
+table.material td:first-child {
+	min-width:0;
+	width: 60px;
+	font-style: italic;
+}
+table.material td:last-child {
+	min-width:0;
+	width: 220px;
+	font-style: italic;
+}

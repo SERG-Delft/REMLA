@@ -11,6 +11,11 @@ has_toc: false
 {: .caution}
 This page is still work in progress.
 
+
+Important: The exam day is Friday, June 30!
+On that day, we will invite all groups individually for oral exams.
+We will have *some* room for accomodating conflicting schedules, but please keep the whole day free.
+
 <!--
 The course starts with several *lectures* that provide you with the required background knowledge.
 In week 1, you will also meet your *team-members* and you start making a plan for the project.

@@ -25,9 +25,28 @@ However, going back in your browser and clicking the link again will then load t
 
 ### Week 1
 
-- *Mon:* Introduction (Slides: [Organization][intro-slides-orga]/[Project][intro-slides-project], [Video][intro-video])
+{: .material}
+| Mon | *Introduction* | Slides: [Organization][intro-slides-orga]/[Project][intro-slides-project], [Video][intro-video] |
+| Wed | *Continous {Integration, Delivery, Deployment, Experimentation}* | [Slides][continuous-x-slides], [Video][continuous-x-video] |
+| Fri | *Containers & Orchestration* |  |
 
 [intro-slides-orga]: {%surfdrive /material/01_intro_orga.pdf%}
 [intro-slides-project]: {%surfdrive /material/01_intro_project.pdf%}
 [intro-video]: {%surfdrive /recordings/01_intro_video.mp4%}
+
+[continuous-x-slides]: {%surfdrive /material/02_continuous_x.pdf%}
+[continuous-x-video]: {%surfdrive /recordings/02_continuous_x.mp4%}
+
+### Week 2
+
+{: .material}
+| Mon | *Delivery with GitHub* |  |
+| Wed | *Kubernetes* |  |
+
+### Week 3
+
+{: .material}
+| Mon | *Monitoring* |  |
+| Wed | |  |
+| Fri | *Continuous Experimentation* |  |
 
