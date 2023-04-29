@@ -26,9 +26,9 @@ However, going back in your browser and clicking the link again will then load t
 ### Week 1
 
 {: .material}
-| Mon | *Introduction* | Slides: [Organization][intro-slides-orga]/[Project][intro-slides-project], [Video][intro-video] |
+| Mon | *Introduction* | Slides: [Orga][intro-slides-orga]/[Project][intro-slides-project], [Video][intro-video] |
 | Wed | *Continous {Integration, Delivery, Deployment, Experimentation}* | [Slides][continuous-x-slides], [Video][continuous-x-video] |
-| Fri | *Containers & Orchestration* |  |
+| Fri | *Containers & Orchestration* | [Slides][containerization_orchestration_slides], [Video][containerization_orchestration_video] |
 
 [intro-slides-orga]: {%surfdrive /material/01_intro_orga.pdf%}
 [intro-slides-project]: {%surfdrive /material/01_intro_project.pdf%}
@@ -36,6 +36,9 @@ However, going back in your browser and clicking the link again will then load t
 
 [continuous-x-slides]: {%surfdrive /material/02_continuous_x.pdf%}
 [continuous-x-video]: {%surfdrive /recordings/02_continuous_x.mp4%}
+
+[containerization_orchestration_slides]: {%surfdrive /material/03_container_orchestration.pdf%}
+[containerization_orchestration_video]: {%surfdrive /recordings/03_container_orchestration.mp4%}
 
 ### Week 2
 
