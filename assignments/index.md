@@ -8,5 +8,4 @@ nav_order: 3
 
 # {{ page.title }}
 
-{: .caution}
-This page is still under construction.
+Throughout the course, you will work on several assignments.
