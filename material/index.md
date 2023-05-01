@@ -50,6 +50,19 @@ However, going back in your browser and clicking the link again will then load t
 
 {: .material}
 | Mon | *Monitoring* |  |
-| Wed | ML Pipelines & Code Quality |  |
+| Wed | *ML Pipelines & Code Quality* |  |
 | Fri | *Continuous Experimentation* |  |
 
+### Week 4
+
+{: .material}
+| Mon |  |  |
+| Wed |  |  |
+| Fri |  |  |
+
+### Week 5
+
+{: .material}
+| Mon | *Data Validation* |  |
+| Wed | *ML Configuration Management* |  |
+| Fri | *ML Testing* |  |
