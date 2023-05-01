@@ -43,7 +43,7 @@ However, going back in your browser and clicking the link again will then load t
 ### Week 2
 
 {: .material}
-| Mon | *Delivery with GitHub* |  |
+| Mon | *Deployment with GitHub* |  |
 | Wed | *Kubernetes* |  |
 
 ### Week 3
