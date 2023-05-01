@@ -16,7 +16,11 @@ lecturers:
 
 tas:
     
-  - name: TBD
-    email: E
-    netid: N
+  - name: Cathrine Paulsen
+    email: c.r.paulsen at student tudelft nl
+    netid: cpaulsen
+    
+  - name: Dan Plamadeala
+    email: d.plamadeala at student tudelf nl
+    netid: dplamadeala
 
