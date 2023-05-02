@@ -2,7 +2,7 @@
 
 Jekyll::Hooks.register :pages, :post_init do |page|
 
-  if File.exists?(page.path) and page.path.end_with?(".md") then
+  if File.exist?(page.path) and page.path.end_with?(".md") then
 
     # get the current page last modified time
     modification_time = File.mtime( page.path )
