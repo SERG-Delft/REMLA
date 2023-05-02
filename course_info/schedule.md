@@ -24,6 +24,7 @@ Please check your [timetable](https://mytimetable.tudelft.nl/schedule) for all i
 The Q&A sessions are meetings in the classroom.
 We will reflect on common issues, recurring comments that we have seen in the weekly peer feedback, and will be available for clarifications around the team project.
 
+{:.schedule}
 | Date | Description |
 | --- | --- |
 | Mon, Apr 24 | Intro (Structure, Project) |
@@ -54,6 +55,7 @@ A large part of the course is the teamwork that includes assignments (*A\**), [p
 [peer-review]: {% link assignments/peer-review.md %}
 [buddycheck]: {% link assignments/buddycheck.md %}
 
+{:.schedule}
 | Date | Description |
 | --- | --- |
 | Mon, May 8 | [A1]({%link assignments/a1-images-and-releases.md%}) |
