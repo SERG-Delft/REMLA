@@ -108,9 +108,9 @@ For example, you can open a port-forward to access the exposed ports of a contai
 The forward can be interrupted with `Ctrl+C`.
 Similar to Docker, it is also possible to see the logs by naming the container:
 
-    $ kubctl logs nginx
+    $ kubectl logs nginx
     # add -f for a continuous log
-    $ kubctl logs -f nginx
+    $ kubectl logs -f nginx
 
 Finally, you can use the `exec` command to connect to a running container, for example, to start a shell and inspect the container from the inside.
 The `-it` parameter is required for an interactive terminal.
