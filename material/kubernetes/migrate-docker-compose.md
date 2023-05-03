@@ -36,7 +36,7 @@ services:
 
 Once this configuration is deployed, there are two interesting pages to visit:
 
-- [localhost:8080/](http://localhost:8080/): A status page that provices information about the container.
+- [localhost:8080/](http://localhost:8080/): A status page that provides information about the container.
 - [localhost:8080/sms/](http://localhost:8080/sms/): A frontend that allows to check whether SMS messages are Spam.
 
 
