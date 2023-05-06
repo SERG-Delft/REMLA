@@ -60,7 +60,7 @@ For now, search for `pods`, you should get an [Introduction to Pods][k8s-pods] a
 Copy the first example (*simple-pod.yml*) to your local folder.
 
 [k8s-docs]: https://kubernetes.io/docs/
-[k8s-pods]: https://kubernetes.io/docs/
+[k8s-pods]: https://kubernetes.io/docs/concepts/workloads/pods/
 
 ```yml
 # simple-pod.yml
