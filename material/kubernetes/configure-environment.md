@@ -84,7 +84,7 @@ spec:
     image: proksch/showenv
     ports:
     - containerPort: 8080
-  env:
+    env:
     - name: USERNAME
       valueFrom:
         configMapKeyRef:
