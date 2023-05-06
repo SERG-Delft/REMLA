@@ -44,10 +44,13 @@ However, going back in your browser and clicking the link again will then load t
 
 {: .material}
 | Mon | *Deployment with GitHub* | [Slides][deployment_with_github_slides], [Video][deployment_with_github_video] |
-| Wed | *Kubernetes* |  |
+| Wed | *Kubernetes* | [Slides][kubernetes_slides], [Video][kubernetes_video] |
 
 [deployment_with_github_slides]: {%surfdrive /material/04_deployment_with_github.pdf%}
 [deployment_with_github_video]: {%surfdrive /recordings/04_deployment_with_github.mp4%}
+
+[kubernetes_slides]: {%surfdrive /material/05_kubernetes.pdf%}
+[kubernetes_video]: {%surfdrive /recordings/05_kubernetes.mp4%}
 
 ### Week 3
 

@@ -11,3 +11,8 @@ grand_parent: Material
 
 {: .caution}
 This page is still under construction.
+
+You can find the [project for the course assignments][surfdrive] in Surfdrive
+
+
+[surfdrive]: {%surfdrive /projects/restaurant-sentiment/%}
