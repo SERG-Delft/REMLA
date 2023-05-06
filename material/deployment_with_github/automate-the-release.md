@@ -16,7 +16,7 @@ In this exercise, we will create a workflow to automate this step and learn how 
 ## Create a Secret in the Repository
 
 Open the settings of your `YOURNAME/test-remla` repository on GitHub.
-In yor settings, open the page for Security » Secrets and Variables » Actions.
+In your settings, open the page for Security » Secrets and Variables » Actions.
 Now, add a *New repository secret* with the name `GH_TOKEN` and add your PAT as the content.
 
 
