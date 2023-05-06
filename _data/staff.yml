@@ -14,6 +14,12 @@ lecturers:
     photo: /assets/images/staff/LC.jpg
 
 tas:
-  - name: TBD
-    email: E
-    netid: N
+    
+  - name: Cathrine Paulsen
+    email: c.r.paulsen@student.tudelft.nl
+    netid: cpaulsen
+    
+  - name: Dan Plamadeala
+    email: d.plamadeala@student.tudelft.nl
+    netid: dplamadeala
+

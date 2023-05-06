@@ -41,14 +41,17 @@ Each student needs to pass *all* criteria or they will fail the course, regardle
 
 - Upholding a professional attitude when interacting with peers and staff.
 - Constructive participation in the peer review process (All! No repair!)
-	- 6x Peer Evaluation (for another team and your own)
-	- 2x Buddycheck Peer Feedback (within the team)
+	- 6x [Peer Review][peer-review] of the assignments (for another team and your own)
+	- 2x [Buddycheck][buddycheck] peer evaluation (within the team)
 - Actively participating in the team process
 	- Visibly contributing to the project throughout all weeks of the project
 	- Contributing to all team deadlines and deliverables
 	- Receiving a positive evaluation in final Buddycheck review
 - Ability to explain lecture contents and defend all aspects of the team project in the oral examination
 - Availability of team results for grading (repositories, essay, artifacts)
+
+[peer-review]: {%link assignments/peer-review.md%}
+[buddycheck]: {%link assignments/buddycheck.md%}
 
 
 ## Graded components

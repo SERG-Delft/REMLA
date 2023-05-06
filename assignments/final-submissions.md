@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ass 1
+title: Final Submissions
 has_children: false
 has_toc: false
 parent: Assignments
