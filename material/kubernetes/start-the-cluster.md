@@ -129,7 +129,7 @@ To finish this exercise, remove the resources from the cluster again.
 
     $ kubectl delete -f simple-pod.yml
 
-Applying and deleting files is very convenient and, *most of the time*, files can just be re-applied and Kubernetes will just update the configuation.
+Applying and deleting files is very convenient and, *most of the time*, files can just be re-applied and Kubernetes will just update the configuration.
 However, only those resources will be updated/deleted that are still included in the file.
 After major changes or renaming of resources, Kubernetes might not be able to map the resources in the file to resources that are still deployed in the cluster.
 
