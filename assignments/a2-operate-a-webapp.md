@@ -8,8 +8,9 @@ parent: Assignments
 
 # {{ page.title }}
 
-This assignment is a continuation of A1.
-You do not have to create new repositories, instead, extend and evolve the existing files, repositories, build pipelines, ...
+In this assignment, you will migrate your project to Kubernetes and enabling monitoring.
+The assignment is a continuation of A1, you do not have to create new repositories, instead, extend and evolve the existing files, repositories, and build pipelines.
+
 
 ## Extend Webapp
 
