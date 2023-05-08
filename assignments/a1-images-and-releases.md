@@ -8,6 +8,10 @@ parent: Assignments
 
 # {{ page.title }}
 
+{:.info}
+This assignment assumes that you are working with the [restaurant sentiment][project] dataset
+
+[project]: {%link material/projects/restaurant-sentiment.md%}
 
 ## Basic Setup
 
@@ -21,6 +25,9 @@ parent: Assignments
 - Make sure that all repositories are public so your peers and examiners can access your results.
 - The choice of the programming language is up to the group.
 The only restriction is that the language must have a dedicated package registry on GitHub.
+
+{:.info}
+Public repository access is of utmost importance, so your peers and examiners have access.
 
 ## Tasks per Repository
 
@@ -85,8 +92,24 @@ For now, only a Docker compose file is expected.
 
 ## Submission
 
-No specific submission format exists, apart from the requested structure for the organization and the repositories.
-Public access to the repositories is of utmost importance, so peer-reviewers and examiners have access.
-The deadline for the assignment is on Mon, May 8, 23:59pm.
-The assignment must be registered for Peer review (details on that will follow in the next days).
+{:.info}
+The following instructions have been updated.
+
+The assignment follows the process that has been laid out in the general description of the [peer review][peer-review] process.
+Please create the required organization and your repositories and prepare the submission document that contains links to everything.
+
+After the initial setup problems, the deadline for the assignment has been extended to Fri, May 12, 23:59pm.
+After the submission, you are supposed to review your own submission and that of another group.
+The deadline for these reviews have been extended as well to Wednesday, May 17, 23:59pm.
+
+The following rubrics are relevant for the assignment:
+
+- [Versioning & Releases]({%link assessment/versioning-and-releases.md%})
+- [Containers & Orchestration]({%link assessment/containers-and-orchestration.md%})
+
+
+
+[peer-review]: {%link assignments/peer-review.md%}
+
+
 

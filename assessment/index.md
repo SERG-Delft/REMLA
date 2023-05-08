@@ -63,12 +63,14 @@ The grading of our course is based on the following aspects.
 Please study the linked rubrics to understand the concrete requirements.
 
 - **Project (55%):** How well has the project been implemented?
-	- [Containerization]({%link assessment/containerization.md%})
-	- [Orchestration]({%link assessment/orchestration.md%})
+	- [Versioning & Releases]({%link assessment/versioning-and-releases.md%})
+	- [Containers & Orchestration]({%link assessment/containers-and-orchestration.md%})
+	- [Kubernetes]({%link assessment/kubernetes.md%})
+	- [Monitoring]({%link assessment/monitoring.md%})
 	- [Continuous Experimentation]({%link assessment/continuous-experimentation.md%})
 	- ...
 - **Essay (40%):** How well has the project been documented?
-	- [Essay]({%link assessment/containerization.md%})
+	- [Essay]({%link assessment/essay.md%})
 	- ...
 - **Presentation & Oral Examination (5%):** Illustrating the features of the created application and checking individually, whether the learning objectives of the course have been reached.
 	- [Presentation]({%link assessment/presentation.md%})
