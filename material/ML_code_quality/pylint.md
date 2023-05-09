@@ -31,6 +31,7 @@ You should receive an output like this:
 ************* Module text_classification
 src/text_classification.py:28:0: C0116: Missing function or method docstring (missing-function-docstring)
 src/text_classification.py:28:33: C0103: Argument name "X_train" doesn't conform to snake_case naming style (invalid-name)
+...
 -----------------------------------
 Your code has been rated at 8.04/10
 ```
