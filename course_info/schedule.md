@@ -33,12 +33,12 @@ We will reflect on common issues, recurring comments that we have seen in the we
 | Mon, May 1 | Deployment with Github |
 | Wed, May 3 | Kubernetes: Intro |
 | Mon, May 8 | Monitoring/Prometheus |
-| Wed, May 10 | ML Pipelines |
+| Wed, May 10 | ML Pipelines & Code Quality |
 | Fri, May 12 | *Self-study:* Continuous Experimentation (No Lecture) |
 | Mon, May 15 | (No Lecture) |
 | Wed, May 17 | *Self-study:* Q&A1 (No Lecture) |
-| Mon, May 22 | Data Validation |
-| Wed, May 24 | ML Config Management |
+| Mon, May 22 | ML Config Management |
+| Wed, May 24 | Data Validation |
 | Fri, May 26 | ML Testing |
 | Wed, May 31 | "Contents of the Report" and Q&A2 |
 | Fri, June 2 | Q&A3 |
