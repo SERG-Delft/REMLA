@@ -58,10 +58,9 @@ A large part of the course is the teamwork that includes assignments (*A\**), [p
 {:.schedule}
 | Date | Description |
 | --- | --- |
-| Mon, May 12 | [A1]({%link assignments/a1-images-and-releases.md%}) |
-| Mon, May 15 | A2 |
-| Wed, May 17 | R1 + [Buddycheck 1][buddycheck] |
-| Mon, May 22 | R2 + A3 |
+| Fri, May 12 | [A1]({%link assignments/a1-images-and-releases.md%}) |
+| Wed, May 17 | R1 + A2 + [Buddycheck 1][buddycheck] |
+| Wed, May 24 | R2 + A3 |
 | Tue, May 30 | R3 + A4 |
 | Mon, Jun 5 | R4 + A5 |
 | Mon, Jun 12 | R5 + A6 |
