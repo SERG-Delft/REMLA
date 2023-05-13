@@ -18,3 +18,17 @@ table.material td:last-child {
 	width: 220px;
 	font-style: italic;
 }
+
+.main-content dl {
+	grid-template: none;
+}
+.main-content dt {
+	text-align: left;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.footnote {
+	color: #aaa;
+	font-size: 0.8em;
+}

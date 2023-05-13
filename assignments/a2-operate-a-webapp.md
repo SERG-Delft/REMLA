@@ -107,8 +107,8 @@ The deadline for these reviews is Mon, May 22, 23:59pm.
 
 The following rubrics are relevant for the assignment:
 
-- [Kubernetes]({%link assessment/kubernetes.md%})
-- [Monitoring]({%link assessment/monitoring.md%})
+- [Basic Requirements]({%link assessment/basic-requirements.md%})
+- [Kubernetes & Monitoring]({%link assessment/kubernetes-and-monitoring.md%})
 
 
 

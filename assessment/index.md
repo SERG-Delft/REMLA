@@ -63,10 +63,10 @@ The grading of our course is based on the following aspects.
 Please study the linked rubrics to understand the concrete requirements.
 
 - **Project (55%):** How well has the project been implemented?
+	- [Basic Requirements]({%link assessment/basic-requirements.md%})
 	- [Versioning & Releases]({%link assessment/versioning-and-releases.md%})
 	- [Containers & Orchestration]({%link assessment/containers-and-orchestration.md%})
-	- [Kubernetes]({%link assessment/kubernetes.md%})
-	- [Monitoring]({%link assessment/monitoring.md%})
+	- [Kubernetes & Monitoring]({%link assessment/kubernetes-and-monitoring.md%})
 	- [Continuous Experimentation]({%link assessment/continuous-experimentation.md%})
 	- ...
 - **Essay (40%):** How well has the project been documented?

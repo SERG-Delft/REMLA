@@ -104,6 +104,7 @@ The deadline for these reviews have been extended as well to Wednesday, May 17, 
 
 The following rubrics are relevant for the assignment:
 
+- [Basic Requirements]({%link assessment/basic-requirements.md%})
 - [Versioning & Releases]({%link assessment/versioning-and-releases.md%})
 - [Containers & Orchestration]({%link assessment/containers-and-orchestration.md%})
 
