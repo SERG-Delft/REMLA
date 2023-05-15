@@ -1,14 +1,14 @@
 lecturers:
   
   - name: Sebastian Proksch
-    email: S.Proksch at tudelft nl
+    email: S.Proksch@tudelft.nl
     function: Assistant Professor
     research_group: SERG, Assistant Professor
     research_group_url: https://serg.ewi.tudelft.nl
     photo: /assets/images/staff/SP.jpg
   
   - name: Luís Cruz
-    email: L.Cruz at tudelft nl
+    email: L.Cruz@tudelft.nl
     function: Assistant Professor
     research_group: SERG, Assistant Professor
     research_group_url: https://serg.ewi.tudelft.nl
@@ -17,10 +17,10 @@ lecturers:
 tas:
     
   - name: Cathrine Paulsen
-    email: c.r.paulsen at student tudelft nl
+    email: c.r.paulsen@student.tudelft.nl
     netid: cpaulsen
     
   - name: Dan Plamadeala
-    email: d.plamadeala at student tudelf nl
+    email: d.plamadeala@student.tudelft.nl
     netid: dplamadeala
 
