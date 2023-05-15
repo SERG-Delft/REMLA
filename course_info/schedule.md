@@ -12,10 +12,10 @@ has_toc: false
 Please note that the exam day has changed to Friday, June 30!
 
 The study load of the course varies throughout the weeks.
-We will start with several *lectures* that provide you with the required background knowledge.
+We will start with several _lectures_ that provide you with the required background knowledge.
 In the second half, the course will transition towards group assignments and we will only meet in the large group for reviewing and discussing the peer feedback that you gave each other.
 
-In the following, you will find the schedule for the *lectures* and the relevant assignments/peer reviews.
+In the following, you will find the schedule for the _lectures_ and the relevant assignments/peer reviews.
 Make sure that you keep an eye on all relevant dates and deadlines.
 
 ### Lectures and Q&A Sessions
@@ -33,12 +33,12 @@ We will reflect on common issues, recurring comments that we have seen in the we
 | Mon, May 1 | Deployment with Github |
 | Wed, May 3 | Kubernetes: Intro |
 | Mon, May 8 | Monitoring/Prometheus |
-| Wed, May 10 | ML Pipelines |
-| Fri, May 12 | *Self-study:* Continuous Experimentation (No Lecture) |
+| Wed, May 10 | ML Pipelines & Code Quality |
+| Fri, May 12 | _Self-study:_ Continuous Experimentation (No Lecture) |
 | Mon, May 15 | (No Lecture) |
-| Wed, May 17 | *Self-study:* Q&A1 (No Lecture) |
-| Mon, May 22 | Data Validation |
-| Wed, May 24 | ML Config Management |
+| Wed, May 17 | _Self-study:_ Q&A1 (No Lecture) |
+| Mon, May 22 | ML Config Management |
+| Wed, May 24 | Data Validation |
 | Fri, May 26 | ML Testing |
 | Wed, May 31 | "Contents of the Report" and Q&A2 |
 | Fri, June 2 | Q&A3 |
@@ -47,10 +47,9 @@ We will reflect on common issues, recurring comments that we have seen in the we
 | Fri, June 23 | Q&A6 |
 | Fri, June 30 | Oral Exam |
 
-
 ### Deadlines (Assignments and Peer Reviews/Evaluations)
 
-A large part of the course is the teamwork that includes assignments (*A\**), [peer reviews][peer-review] of the assignments (*R\**), and two team-internal peer evaluations through [Buddycheck][buddycheck].
+A large part of the course is the teamwork that includes assignments (\*A\**), [peer reviews][peer-review] of the assignments (*R\*\*), and two team-internal peer evaluations through [Buddycheck][buddycheck].
 
 [peer-review]: {% link assignments/peer-review.md %}
 [buddycheck]: {% link assignments/buddycheck.md %}
@@ -58,10 +57,9 @@ A large part of the course is the teamwork that includes assignments (*A\**), [p
 {:.schedule}
 | Date | Description |
 | --- | --- |
-| Mon, May 8 | [A1]({%link assignments/a1-images-and-releases.md%}) |
-| Mon, May 15 | R1 + A2 |
-| Wed, May 17 | [Buddycheck 1][buddycheck] |
-| Mon, May 22 | R2 + A3 |
+| Fri, May 12 | [A1]({%link assignments/a1-images-and-releases.md%}) |
+| Wed, May 17 | R1 + A2 + [Buddycheck 1][buddycheck] |
+| Wed, May 24 | R2 + A3 |
 | Tue, May 30 | R3 + A4 |
 | Mon, Jun 5 | R4 + A5 |
 | Mon, Jun 12 | R5 + A6 |
