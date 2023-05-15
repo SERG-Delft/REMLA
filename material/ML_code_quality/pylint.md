@@ -9,7 +9,7 @@ nav_order: 1
 # {{page.title}}
 
 This is a basic script to set up and use pylint.
-Use the [sms project]({{"/material/projects/sms-spam/" | absolute_path}}) as a base project.
+Use the [sms project]({{"/remla/material/projects/sms-spam/" | absolute_path}}) as a base project.
 
 *Note: do not forget to use a virtual environment, install dependencies, etc.*
 
