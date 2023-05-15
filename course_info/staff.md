@@ -20,7 +20,7 @@ parent: Course Info
                 {{ lecturer.research_group }}
             </p>
         </td>
-        <td>{{ lecturer.email }}</td>
+        <td><a href="mailto:{{ lecturer.email }}">{{ lecturer.email }}</a></td>
     </tr>
     {% endfor %}
     </tbody>
@@ -49,7 +49,7 @@ parent: Course Info
                 <a href="https://mattermost.tudelft.nl/cse1105-2122-q3/messages/@{{ta.netid}}" style="color: #00A6D6; text-decoration: none;">
                     <img src="{{ '/assets/images/mattermost.png' | relative_url }}" style="max-width: 14px; vertical-align: middle;"/>
                     {{ ta.netid }}
-                </a> - ✉️ {{ ta.email }}
+                </a> - ✉️ <a href="mailto:{{ ta.email }}">{{ ta.email }}</a>
                 {% endif %}
             </p>
         </td>
