@@ -34,35 +34,35 @@ We will reflect on common issues, recurring comments that we have seen in the we
 | Wed, May 3 | Kubernetes: Intro |
 | Mon, May 8 | Monitoring/Prometheus |
 | Wed, May 10 | ML Pipelines & Code Quality |
-| Fri, May 12 | *Self-study:* Continuous Experimentation (No Lecture) |
-| Mon, May 15 | (No Lecture) |
-| Wed, May 17 | *Self-study:* Q&A1 (No Lecture) |
+| Fri, May 19 | *Self-study:* Continuous Experimentation (No Lecture) |
 | Mon, May 22 | ML Config Management |
 | Wed, May 24 | Data Validation |
 | Fri, May 26 | ML Testing |
-| Wed, May 31 | "Contents of the Report" and Q&A2 |
-| Fri, June 2 | Q&A3 |
-| Fri, June 9 | Q&A4 |
+| Wed, May 31 | "Contents of the Report" |
+| Fri, June 2 | Q&A1 + Q&A2 |
+| Fri, June 9 | Q&A3 + Q&A4 |
 | Fri, June 16 | Q&A5 |
 | Fri, June 23 | Q&A6 |
 | Fri, June 30 | Oral Exam |
+
 
 
 ### Deadlines (Assignments and Peer Reviews/Evaluations)
 
 A large part of the course is the teamwork that includes assignments (*A\**), [peer reviews][peer-review] of the assignments (*R\**), and two team-internal peer evaluations through [Buddycheck][buddycheck].
 
-[peer-review]: {% link assignments/peer-review.md %}
-[buddycheck]: {% link assignments/buddycheck.md %}
+[peer-review]: {%link assignments/peer-review.md %}
+[buddycheck]: {%link assignments/buddycheck.md %}
 
 {:.schedule}
 | Date | Description |
 | --- | --- |
 | Fri, May 12 | [A1]({%link assignments/a1-images-and-releases.md%}) |
-| Wed, May 17 | R1 + A2 + [Buddycheck 1][buddycheck] |
-| Wed, May 24 | R2 + A3 |
-| Tue, May 30 | R3 + A4 |
-| Mon, Jun 5 | R4 + A5 |
+| Wed, May 17 | R1 + [A2]({%link assignments/a2-operate-a-webapp.md%}) |
+| Wed, May 24 | R2 |
+| Fri, May 26 | [Buddycheck 1][buddycheck] |
+| Tue, May 30 | A3 + A4 |
+| Mon, Jun 5 | R3 + R4 + A5 |
 | Mon, Jun 12 | R5 + A6 |
 | Mon, Jun 19 | R6 |
 | Fri, Jun 23 | [Buddycheck 2][buddycheck] |

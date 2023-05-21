@@ -57,7 +57,7 @@ However, going back in your browser and clicking the link again will then load t
 {: .material}
 | Mon | *Monitoring* | [Slides][monitoring_slides], [Video][monitoring_video] |
 | Wed | *ML Pipelines & Code Quality* | [Slides][ml_pipelines_and_code_quality_slides], [Video][ml_pipelines_and_code_quality_video] |
-| Fri | *Continuous Experimentation* |  |
+| Fri |  | |
 
 [monitoring_slides]: {%surfdrive /material/06_monitoring_in_kubernetes.pdf%}
 [monitoring_video]: {%surfdrive /recordings/06_monitoring_in_kubernetes.mp4%}
@@ -69,7 +69,11 @@ However, going back in your browser and clicking the link again will then load t
 {: .material}
 | Mon |  |  |
 | Wed |  |  |
-| Fri |  |  |
+| Fri | *Continuous Experimentation* | [Slides][ce_slides], [Video][ce_video] |
+
+[ce_slides]: {%surfdrive /material/08_continuous_experimentation.pdf%}
+[ce_video]: {%surfdrive /recordings/08_continuous_experimentation.mp4%}
+
 
 ### Week 5
 
