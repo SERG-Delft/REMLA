@@ -2,7 +2,7 @@
 layout: page
 title: ML Configuration Management
 parent: Material
-has_children: false
+has_children: true
 has_toc: true
 ---
 
