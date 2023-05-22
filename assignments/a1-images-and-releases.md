@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "A1: Images & Releases"
-has_children: false
-has_toc: false
 parent: Assignments
 ---
 

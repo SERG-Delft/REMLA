@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Versioning & Releases
-has_children: false
-has_toc: false
 parent: Assessment
 ---
 

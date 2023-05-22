@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Basic Requirements
-has_children: false
-has_toc: false
 parent: Assessment
 ---
 

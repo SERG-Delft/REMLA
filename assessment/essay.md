@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Essay
-has_children: false
-has_toc: false
 parent: Assessment
 ---
 

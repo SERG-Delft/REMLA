@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Kubernetes & Monitoring
-has_children: false
-has_toc: false
 parent: Assessment
 ---
 

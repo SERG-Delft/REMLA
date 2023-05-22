@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "A2: Operate a Webapp"
-has_children: false
-has_toc: false
 parent: Assignments
 ---
 
