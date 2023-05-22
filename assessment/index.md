@@ -66,7 +66,7 @@ Please study the linked rubrics to understand the concrete requirements.
 	- [Versioning & Releases]({%link assessment/versioning-and-releases.md%})
 	- [Containers & Orchestration]({%link assessment/containers-and-orchestration.md%})
 	- [Kubernetes & Monitoring]({%link assessment/kubernetes-and-monitoring.md%})
-	- [Continuous Experimentation]({%link assessment/continuous-experimentation.md%})
+	- [Istio Service Mesh]({%link assessment/istio-service-mesh.md%})
 	- ...
 - **Essay (40%):** How well has the project been documented?
 	- [Essay]({%link assessment/essay.md%})
