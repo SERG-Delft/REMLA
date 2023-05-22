@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A3: ML Pipelines"
+title: "A3: ML Config Management"
 has_children: false
 has_toc: false
 parent: Assignments
