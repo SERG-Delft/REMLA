@@ -19,32 +19,20 @@ and version control artefacts, and we will use pylint to test a common ML scenar
 - Everyone codes
 - One team does a demo at the end
 
-## 1. Set up
+## 1. Setup
 
-We will use the basic ML project used in the previous classes:
+We will use the basic ML project used in the previous classes. You probably have already set it up, which means you might be able to skip this setup section.
 
-Fork the Github repo <https://github.com/luiscruz/SMS-Spam-Detection>
+Fork the Github repo <https://github.com/luiscruz/sms1>
 
 {% highlight Batchfile %}
-git clone https://github.com/you-user/SMS-Spam-Detection
-cd SMS-Spam-Detection
+git clone https://github.com/luiscruz/sms1
+cd sms1
 mkdir output
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 {% endhighlight %}
-
-To have everyone on the same page, we are going to use a docker container with all dependencies installed.
-(Note: you can also use your own setup — don't forget to create a `virtualenv` and install the dependencies in `requirements.txt`)
-
-Build and run the docker:
-
-{% highlight Batchfile %}
-docker build --progress plain . -t docker-sms
-docker run -it --rm -v "$(pwd)":/root/project docker-sms
-{% endhighlight %}
-
-Note: If the previous command did not work and you don't know what `$(pwd)` is, replace it by your
-current directory.
-
-Question: Could we use this Docker image for deployment? Why/Why not?
 
 ## 2. mllint
 
@@ -53,6 +41,7 @@ In this tutorial we will use [`mllint`][mllint] to help improve our `SMS-Spam-De
 Run `mllint`:
 
 {% highlight Batchfile %}
+pip install mllint
 mllint run
 {% endhighlight %}
 
@@ -63,6 +52,7 @@ Analyse its output and verify what it says about data version control.
 **1-** Initiate DVC to set up our automated pipeline.
 
 {% highlight Batchfile %}
+pip install dvc
 dvc init
 dvc run -n get_data -d src/get_data.py -o dataset python src/get_data.py
 {% endhighlight %}
@@ -74,6 +64,12 @@ In the command above, we specify that the stage `get_data` is executed by runnin
 (describe the project and show how to check the scripts to see what are the inputs and outputs)
 
 Check `dvc run` documentation to understand how it works.
+
+**Note:** if you are experiencing any issues with a library called `fsspec` force install version `2022.7.1`:
+```
+pip uninstall fsspec
+pip install fsspec==2022.7.1
+```
 
 **2-** Create a new stage, `preprocess`, that will run the script `src/text_preprocessing.py`
 <!--dvc run -n preprocess -d dataset -d src/text_preprocessing.py -o output/preprocessor.joblib -o output/preprocessed_data.joblib python src/text_preprocessing.py
