@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A3: ML Config Management"
+title: "A4: ML Config Management"
 has_children: false
 has_toc: false
 parent: Assignments
@@ -24,7 +24,7 @@ This assignment focuses in the model-training project.
 
 Submit a pdf file with a link to the Github repository.
 Public access to the repositories is of utmost importance, so peer-reviewers and examiners have access.
-The deadline for the assignment is on Wed, May 24, 23:59pm.
+The deadline for the assignment is on Wed, May 31, 23:59pm.
 
 
 ## Peer-review

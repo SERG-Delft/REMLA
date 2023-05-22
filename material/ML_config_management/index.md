@@ -14,9 +14,9 @@ and version control artefacts, and we will use pylint to test a common ML scenar
 
 ## Intro Outline
 
-- Initial Project: https://github.com/luiscruz/SMS-Spam-Detection
+- Initial Project: https://github.com/luiscruz/sms1
     - still needs a ton of refactoring
-- Everyone codes
+- Teams of 2
 - One team does a demo at the end
 
 ## 1. Setup
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## 2. mllint
 
-In this tutorial we will use [`mllint`][mllint] to help improve our `SMS-Spam-Detection` project.
+In this tutorial we will use [`mllint`][mllint] to help improve our `sms1` project.
 
 Run `mllint`:
 
@@ -54,8 +54,10 @@ Analyse its output and verify what it says about data version control.
 {% highlight Batchfile %}
 pip install dvc
 dvc init
-dvc run -n get_data -d src/get_data.py -o dataset python src/get_data.py
+dvc run -n get_data -d src/get_data.py -o smsspamcollection python src/get_data.py
 {% endhighlight %}
+
+Check the output. Make sure you understand why we are getting the error. Fix it based on the suggestion proposed by `dvc`.
 
 In the above command we have added the first stage of the pipeline: `get_data`.
 It depends on the script `src/get_data.py` (flag -d) and yields the output `dataset` (flag -o).
@@ -72,8 +74,10 @@ pip install fsspec==2022.7.1
 ```
 
 **2-** Create a new stage, `preprocess`, that will run the script `src/text_preprocessing.py`
-<!--dvc run -n preprocess -d dataset -d src/text_preprocessing.py -o output/preprocessor.joblib -o output/preprocessed_data.joblib python src/text_preprocessing.py
+<!--dvc run -n preprocess -d smsspamcollection -d src/text_preprocessing.py -o output/preprocessor.joblib -o output/preprocessed_data.joblib python src/text_preprocessing.py
  -->
+
+Use `dvc run` the same way we did in the previous stage. Think about the dependencies (`-d`), the outputs (`-o`), and the python script that it needs to run.
 
 Now check how the pipeline looks like with the following command:
 
@@ -93,10 +97,10 @@ Also check how the `dcv.yml` file looks like.
 **3-** Add the `train` stage that runs the script `src/text_classification.py`:
 
 {% highlight Batchfile %}
-python src/text_classification.py AdaBoost
+python src/text_classification.py
 {% endhighlight %}
 
-<!--dvc run -n train -d output/preprocessed_data.joblib -d src/text_classification.py -o output/misclassified_msgs.txt -o output/accuracy_scores.png -o output/AdaBoost_model.joblib python src/text_classification.py AdaBoost -->
+<!--dvc run -n train -d output/preprocessed_data.joblib -d src/text_classification.py -o output/misclassified_msgs.txt -o output/accuracy_scores.png -o output/model.joblib python src/text_classification.py  -->
 
 ### Demo
 
@@ -119,7 +123,7 @@ Remotes can live in your local storage (local remotes 🤷‍♂️) or in a clo
 Set up a local "remote" called `mylocalremote`.
 
 {% highlight Batchfile %}
-dvc remote add -d mylocalremote /root/remotedvc
+dvc remote add -d mylocalremote ~/remotedvc
 {% endhighlight %}
 
 Check out how the project's config file stores this info:
@@ -154,7 +158,7 @@ Explain what happened.
 
 Confirm that the dataset is in fact the old version by checking its size (should be 1000):
 {% highlight Batchfile %}
-wc dataset/SMSSpamCollection
+wc smsspamcollection/SMSSpamCollection
 {% endhighlight %}
 
 
@@ -174,7 +178,7 @@ git commit -am "delete dvc remote 'mylocalremote'"
 ```
 
 1. Create a folder in your Google drive
-    1.1 Share it with your teammates.
+    1.1 Share it with your teammate.
     1.2 Copy the folder id from its page url (e.g., `1zUHN-qHKDKvQE8igLPVZ2JMQvrAjyxa`)
 
 2. Follow the instructions in the following documentation page to add a GDrive remote:
