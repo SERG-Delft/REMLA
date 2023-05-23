@@ -30,7 +30,7 @@ The deadline for the assignment is on Wed, May 31, 23:59pm.
 ## Peer-review
 
 After submission, we will open the system for peer-review.
-You have until Mon, Jun 5 to submit your review. The [rubric](../../assessment/a4-rubric-ml-cofig) can be used to guide the review.
+You have until Mon, Jun 5 to submit your review. The [rubric](../../assessment/a4-rubric-ml-config) can be used to guide the review.
 
 <!--
 Rubric 
