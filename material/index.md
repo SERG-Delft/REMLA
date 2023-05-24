@@ -79,5 +79,5 @@ However, going back in your browser and clicking the link again will then load t
 
 {: .material}
 | Mon | *ML Configuration Management* |  |
-| Wed | *Data Validation* |  |
-| Fri | *ML Testing* |  |
+| Wed | *ML Testing* |  |
+| Fri | *Data Validation* |  |
