@@ -78,6 +78,6 @@ However, going back in your browser and clicking the link again will then load t
 ### Week 5
 
 {: .material}
-| Mon | *ML Configuration Management* |  |
+| Mon | *ML Configuration Management* | [Materials](../material/ML_config_management) |
 | Wed | *ML Testing* |  |
 | Fri | *Data Validation* |  |
