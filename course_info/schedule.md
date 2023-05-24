@@ -60,7 +60,7 @@ A large part of the course is the teamwork that includes assignments (*A\**), [p
 | Fri, May 12 | [A1]({%link assignments/a1-images-and-releases.md%}) |
 | Wed, May 17 | R1 + [A2]({%link assignments/a2-operate-a-webapp.md%}) |
 | Wed, May 24 | R2 |
-| Tue, May 30 | A3 + A4 + [Buddycheck 1][buddycheck] |
+| Tue, May 30 | [A3]({%link assignments/a3-istio-service-mesh.md%}) + A4 + [Buddycheck 1][buddycheck] |
 | Mon, Jun 5 | R3 + R4 + A5 |
 | Mon, Jun 12 | R5 + A6 |
 | Mon, Jun 19 | R6 |
