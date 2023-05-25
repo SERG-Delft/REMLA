@@ -2,7 +2,7 @@
 layout: page
 title: Data Validation
 parent: Material
-has_children: true
+has_children: false
 has_toc: false
 ---
 
