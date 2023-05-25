@@ -79,5 +79,10 @@ However, going back in your browser and clicking the link again will then load t
 
 {: .material}
 | Mon | *ML Configuration Management* | [Materials](../material/ML_config_management) |
-| Wed | *ML Testing* |  |
-| Fri | *Data Validation* |  |
+| Wed | *ML Testing* | [Slides][slides_11], [Video][video_11] |
+| Fri | *Data Validation* | [Materials](../material/data_validation)  |
+
+[slides_11]: {%surfdrive /material/11_ml_testing.pdf%}
+[video_11]: {%surfdrive /recordings/11_ml_testing.mp4%}
+
+
