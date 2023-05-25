@@ -3,7 +3,7 @@ layout: page
 title: Data Validation
 parent: Material
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
 # {{page.title}}
