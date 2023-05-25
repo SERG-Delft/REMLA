@@ -36,8 +36,8 @@ We will reflect on common issues, recurring comments that we have seen in the we
 | Wed, May 10 | ML Pipelines & Code Quality |
 | Fri, May 19 | *Self-study:* Continuous Experimentation (No Lecture) |
 | Mon, May 22 | ML Config Management |
-| Wed, May 24 | Data Validation |
-| Fri, May 26 | ML Testing |
+| Wed, May 24 | ML Testing |
+| Fri, May 26 | Data Validation |
 | Wed, May 31 | "Contents of the Report" |
 | Fri, June 2 | Q&A1 + Q&A2 |
 | Fri, June 9 | Q&A3 + Q&A4 |
