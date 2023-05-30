@@ -6,7 +6,7 @@ parent: Assessment
 
 # {{page.title}}
 
-The following rubrics will be assessed on a scale from *Insufficient* to *Excellent*.
+The following criteria will be assessed on a scale from *Insufficient* to *Excellent*.
 
 
 ### Extend Webapp
