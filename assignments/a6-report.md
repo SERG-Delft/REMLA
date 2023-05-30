@@ -11,7 +11,7 @@ parent: Assignments
 
 ## Basic Setup
 
-This assignment focuses in the model-training project.
+This assignment focuses in the final report of the project.
 
 ## Tasks
 
