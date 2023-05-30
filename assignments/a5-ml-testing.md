@@ -17,7 +17,11 @@ This assignment focuses in the model-training project.
 
 - Set up a testing framework.
 - Implement automated ML tests
+- Report test adequacy
+- Implement mutamorphic testing
 - Report test results in the continuous integration pipeline.
+
+Check the [rubric] to understand how you can maximise your grade.
 
 ## Submission
 
@@ -29,7 +33,9 @@ The deadline for the assignment is on Mon, Jun 5, 23:59pm.
 ## Peer-review
 
 After submission, we will open the system for peer-review.
-You have until Mon, Jun 12 to submit your review. The [rubric](../../assessment/a4-rubric-ml-config) can be used to guide the review.
+You have until Mon, Jun 12 to submit your review. The [rubric] can be used to guide the review.
+
+[rubric]: ../../assessment/a5-ml-testing
 
 <!--
 Rubric 
