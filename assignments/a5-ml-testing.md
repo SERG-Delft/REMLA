@@ -37,7 +37,3 @@ You have until Mon, Jun 12 to submit your review. The [rubric] can be used to gu
 
 [rubric]: ../../assessment/a5-ml-testing
 
-<!--
-Rubric 
-
- -->
