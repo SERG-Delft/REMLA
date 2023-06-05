@@ -13,7 +13,7 @@ class SurfdriveTag < Liquid::Tag
 
 	# replace url chars
 	path.strip! # trim whitespace from start and end
-	path = path.gsub("/", "%2F").gsub(" ", "%20").gsub("+", "%2B")
+	path = path.gsub("/", "%2F").gsub(" ", "%20").gsub("+", "%2B").gsub("&", "%26")
 
 	# construct partial information
     parts = path.split("%2F") # /
