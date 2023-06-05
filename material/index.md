@@ -84,9 +84,14 @@ However, going back in your browser and clicking the link again will then load t
 
 [slides_10]: {%surfdrive /material/10_ml_testing.pdf%}
 [video_10]: {%surfdrive /recordings/10_ml_testing.mp4%}
-
 [slides_11_1]: {%surfdrive /material/11_1_data_validation.pdf%}
 [slides_11_2]: {%surfdrive /material/11_2_data_management.pdf%}
 [video_11]: {%surfdrive /recordings/11_ml_testing.mp4%}
 
 
+### Week 6
+
+{:.material}
+| Wed | *Contents of the Essay* | [Slides][slides_12], Video unavailable  |
+
+[slides_12]: {%surfdrive /material/12-contents-of-the-essay.pdf%}
