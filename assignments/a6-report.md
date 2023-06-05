@@ -82,7 +82,6 @@ The essay should contain a section on the *additional use case* and describe eac
 
 #### Configuration Management
 
-{:.caution}
 As part of the assignment [A4: ML Config Management], you had to configure your training pipeline using best practices and tools. Document how your pipeline is set up and the decisions we had to make to configure your project.
 
 [A4: ML Config Management]: {%link assignments/a4-ml-config.md%}
@@ -90,7 +89,6 @@ As part of the assignment [A4: ML Config Management], you had to configure your 
 
 #### Testing Design
 
-{:.caution}
 As part of the assignment [A5], you had to design a testing strategy and implement some automated tests.
 In this section, we expect you to fully document your choices and to reflect on limitations of the existing testing strategy. Moreover, we would like to hear your thoughts on how to improve tests and which tests new should be implemented.
 
