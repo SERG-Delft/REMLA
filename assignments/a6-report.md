@@ -55,8 +55,6 @@ You can take inspiration from the [Kiali dashboard][istio-exercise], but your vi
 [istio-exercise]: {%link material/continuous-experimentation/custom-routing.md%}
 
 
-
-
 #### Experimental Setup
 
 As part of the [Istio assignment][assignment-istio], you were asked to design an experiment for a future version of your application.
@@ -85,17 +83,19 @@ The essay should contain a section on the *additional use case* and describe eac
 #### Configuration Management
 
 {:.caution}
-TODO
+As part of the assignment [A4: ML Config Management], you had to configure your training pipeline using best practices and tools. Document how your pipeline is set up and the decisions we had to make to configure your project.
 
-Document ML configuration management decisions
+[A4: ML Config Management]: {%link assignments/a4-ml-config.md%}
 
 
 #### Testing Design
 
 {:.caution}
-TODO
+As part of the assignment [A5], you had to design a testing strategy and implement some automated tests.
+In this section, we expect you to fully document your choices and to reflect on limitations of the existing testing strategy. Moreover, we would like to hear your thoughts on how to improve tests and which tests new should be implemented.
 
-Document ML testing design and decisions.
+
+[A5]: {%link assignments/a5-ml-testing.md%}
 
 
 #### Extension Proposal
