@@ -27,7 +27,7 @@ Excellent
 ### Library
 
 Sufficient
-: A version-aware\* library has been released to a package registry that makes it possible to reuse it in other (external) applications.
+: A version-aware\* library\*\* has been released to a package registry that makes it possible to reuse it in other (external) applications.
 
 Good
 : The version string is automatically updated with the actual package version in the release workflow, i.e., either it is directly taken from the project config, or it is taken from a file that is automatically generated.
@@ -41,6 +41,8 @@ Excellent
 {:.footnote}
 (\*) In this context, version-aware means that the library contains a component that can be asked for its version, for example, to include it in log messages or data records.
 
+{:.footnote}
+(\*\*) We recommend to build a Python library that can be used in both the training pipeline and in the model service.
 
 ### Reliable Model Creation
 

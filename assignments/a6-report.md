@@ -124,7 +124,7 @@ The deadline for these reviews is Mon, Jun 19, 23:59pm.
 The following rubrics are relevant for the assignment:
 
 - [Basic Requirements]({%link assessment/basic-requirements.md%})
-- [Essay]({%link assessment/essay.md%})
+- [Report]({%link assessment/report.md%})
 - [Istio Service Mesh]({%link assessment/istio-service-mesh.md%}) (See *"Continuous Experimentation"* and *"Additional Use Case"*)
 
 

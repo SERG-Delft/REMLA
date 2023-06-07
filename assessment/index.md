@@ -68,8 +68,8 @@ Please study the linked rubrics to understand the concrete requirements.
 	- [Kubernetes & Monitoring]({%link assessment/kubernetes-and-monitoring.md%})
 	- [Istio Service Mesh]({%link assessment/istio-service-mesh.md%})
 	- ...
-- **Essay (40%):** How well has the project been documented?
-	- [Essay]({%link assessment/essay.md%})
+- **Report (40%):** How well has the project been documented?
+	- [Report]({%link assessment/report.md%})
 	- ...
 - **Presentation & Oral Examination (5%):** Illustrating the features of the created application and checking individually, whether the learning objectives of the course have been reached.
 	- [Presentation]({%link assessment/presentation.md%})

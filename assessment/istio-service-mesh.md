@@ -35,7 +35,7 @@ Good
 : System deploys two versions and is prepared for a concrete experiment, which will be able to show whether the newer version is acceptable.
 
 Excellent
-: The essay\* contains a section that describes the experiment. It documents what has been changed, the hypothesis, the relevant metrics, and the decision process, incl. the available data that supports the decision.
+: The report\* contains a section that describes the experiment. It documents what has been changed, the hypothesis, the relevant metrics, and the decision process, incl. the available data that supports the decision.
 
 {:.footnote}
 (\*) For the formative feedback, the description can simply be placed in the repository or linked as a web-document.
@@ -53,7 +53,7 @@ Good
 : One of the described use cases has been realized and it is fully working.
 
 Excellent
-: The working use case has been realized and apropriately documented in the essay\*.
+: The working use case has been realized and apropriately documented in the report\*.
 The description elaborates the use case (necessity, benefits) and describes the solution in detail (diagrams, elaborations) so others can easily replicate it.
 
 {:.footnote}
