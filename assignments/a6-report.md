@@ -6,10 +6,6 @@ parent: Assignments
 
 # {{ page.title }}
 
-{:.caution}
-This page is not yet finalized
-
-
 In this assignment, you will create a documentation of your project that covers all aspects of the lectures.
 This document will be one of the essential deliverables that will be graded in the end.
 
@@ -20,16 +16,17 @@ It should focus on the conceptual aspects and should link to the repository, whe
 ## Format
 
 
-The essay must follow the ACM formatting template ([GitHub](https://github.com/proksch/template-report), [Overleaf](https://www.overleaf.com/read/zsdrgrzgncnb)), no change in the formatting is allowed (font size, line height, margins, etc.).
+The essay *must* follow the ACM formatting template ([GitHub](https://github.com/proksch/template-report), [Overleaf](https://www.overleaf.com/read/zsdrgrzgncnb)), no change in the formatting is allowed (font size, line height, margins, etc.).
 You are free, however, to adapt the document structure.
 
-We recommend to mimic the following structure in the essay, most importantly, you can remove abstract and introduction from the template.
-The created essay must contain at least XXX words, which should roughly translate to XXX pages in the given format.
-
+We recommend mimicing the following structure in the essay, most importantly, you can remove abstract and introduction from the template.
+The created essay does not have a word limit, but it is *strictly* limited to 10 pages in the given format.
+References do not count towards the page limit.
 
 {:.info}
 The intent of the guidelines is to create comparable results.
 We will check the formatting guidelines strictly and fail submissions that ignore them.
+We will ignore text after the page limit.
 
 ## Expected Structure
 
