@@ -55,11 +55,14 @@ Each student needs to pass *all* criteria or they will fail the course, regardle
 
 ## Graded components
 
-{: .caution}
-This part is still under construction
-
 The grading of our course is based on the following aspects.
 Please study the linked rubrics to understand the concrete requirements.
+The rubrics are also linked in the relevant assignments.
+
+{:.info}
+Most rubric items are written in a cumulative style, i.e., to achieve a "Good", your submission also needs to pass the bar for a "Sufficient".
+This applies for all grade steps. 
+
 
 - **Project (55%):** How well has the project been implemented?
 	- [Basic Requirements]({%link assessment/basic-requirements.md%})
@@ -67,10 +70,11 @@ Please study the linked rubrics to understand the concrete requirements.
 	- [Containers & Orchestration]({%link assessment/containers-and-orchestration.md%})
 	- [Kubernetes & Monitoring]({%link assessment/kubernetes-and-monitoring.md%})
 	- [Istio Service Mesh]({%link assessment/istio-service-mesh.md%})
-	- ...
+	- [ML Configuration Management]({%link assessment/a4-rubric-ml-config.md%})
+	- [ML Testing]({%link assessment/a5-ml-testing.md%})
 - **Report (40%):** How well has the project been documented?
 	- [Report]({%link assessment/report.md%})
-	- ...
+	- [Istio Service Mesh]({%link assessment/istio-service-mesh.md%}) (See *"Continuous Experimentation"* and *"Additional Use Case"*)
 - **Presentation & Oral Examination (5%):** Illustrating the features of the created application and checking individually, whether the learning objectives of the course have been reached.
 	- [Presentation]({%link assessment/presentation.md%})
 - **Individual Adjustment:** The project will receive a team grade. The Buddycheck results will be taken into account to adjust the team grade for individuals from -0.5 to +0.5 to the final grade.
