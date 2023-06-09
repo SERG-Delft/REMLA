@@ -97,14 +97,16 @@ Sufficient
 : The configuration management of the AI pipeline is explained in a way that can be understood by stakeholders with a common understanding of release engineering and AI engineering concepts. There is a visual overview that helps understand the pipeline. The main decisions are documented and there is a discussion of opportunities or lessons learned.
 
 Good
-: Generally very good, but lacking some aspects of it.
+: The configuration management of the AI pipeline is explained in a way that can be understood by stakeholders with a common understanding of release engineering and AI engineering concepts. There is a visual overview that helps understand the pipeline.
+Other visual diagrams are used to complement text and bring clarity to some of the design choices. Most key aspects of the configuration management process are addressed, including version control, dependency management, code standards, or deployment strategies.
+There is a clear explanation of the decisions made, although some details may be lacking. The impact of these decisions on the project is discussed, although it could be further elaborated. There is some discussion of limitations, opportunities, and lessons learned, but it could be more comprehensive and reflective.
 
 Very Good
-: The configuration management of the AI pipeline is explained in a way that can be understood by stakeholders with a common understanding of release engineering and AI engineering concepts. There is a visual overview that helps understand the pipeline. Other visual diagrams are used to complement text and bring clarity to some of the design choices. All key aspects of the configuration management process are addressed, such as version control, dependency management, code standards, or deployment strategies. There is a clear explanation of the decisions made and a discussion of their impact in the project. There is a discussion of limitations, opportunities and lessons learned.
+: The configuration management of the AI pipeline is explained in a way that can be understood by stakeholders with a common understanding of release engineering and AI engineering concepts. There is a visual overview that helps understand the pipeline. Other visual diagrams are used to complement text and bring clarity to some of the design choices. All key aspects of the configuration management process are addressed, such as version control, dependency management, code standards, or deployment strategies. There is a clear explanation of the decisions made and a discussion of their impact in the project. There is a thorough discussion of limitations, opportunities and lessons learned.
 
 
 Excellent
-: The configuration management of the AI pipeline is explained in a way that can be understood by stakeholders with a common understanding of software engineering concepts. There is a visual overview that helps understand the pipeline. Other visual diagrams are used to complement text and bring clarity to some of the design choices. All key aspects of the configuration management process are addressed, such as version control, dependency management, code standards, or deployment strategies. There is a clear explanation of the decisions made and a discussion of their impact in the project. There is a discussion of limitations, opportunities and lessons learned. There is a critical reflection on the current status of the project and alternative technologies are considered. Decisions, discussion, take-aways, are backed up with existing related work. 
+: The configuration management of the AI pipeline is explained in a way that can be understood by stakeholders with a common understanding of software engineering concepts. There is a visual overview that helps understand the pipeline. Other visual diagrams are used to complement text and bring clarity to some of the design choices. All key aspects of the configuration management process are addressed, such as version control, dependency management, code standards, or deployment strategies. There is a clear explanation of the decisions made and a discussion of their impact in the project. There is a thorough discussion of limitations, opportunities and lessons learned. There is a critical reflection on the current status of the project and alternative technologies are considered. Decisions, discussion, take-aways, are backed up with existing related work. 
 
 
 ### Testing Design
@@ -113,15 +115,23 @@ Sufficient
 : The testing design is explained in a way that can be understood by stakeholders with a common understanding of release engineering and AI engineering concepts. There is a visual overview that helps understand the testing strategy. The different types of tests that were implemented in the project are clearly described. The main decisions are documented and there is a discussion of opportunities or lessons learned.
 
 Good
-: Generally very good, but lacking some aspects of it.
+: 
+The testing design is explained in a way that can be understood by stakeholders with a common understanding of
+release engineering and AI engineering concepts. The explanation is logical, coherent, and it is easy to follow.
+There is a visual overview that helps understand the testing strategy. Other visual diagrams are used to complement
+text and bring clarity to some of the design choices. The different types of tests implemented in the project are
+adequately described, providing a good overview of the testing process. While there is a discussion of limitations,
+opportunities, and lessons learned, it could be more comprehensive and reflective. Some preliminary results are
+presented, although more detailed and conclusive findings would enhance the evaluation.
+
 
 Very Good
-: The testing design is explained in a way that can be understood by stakeholders with a common understanding of release engineering and AI engineering concepts. The explanation is logical and coherent and it is easy to follow. There is a visual overview that helps understand the testing strategy. Other visual diagrams are used to complement text and bring clarity to some of the design choices. The different types of tests that were implemented in the project are clearly described and motivated. All the details and decisions made are clearly documented and a discussion of their impact in the project. The section shows some preliminary results and there is a discussion of limitations, opportunities and lessons learned.
+: The testing design is explained in a way that can be understood by stakeholders with a common understanding of release engineering and AI engineering concepts. The explanation is logical, coherent, and easy to follow. There is a visual overview that helps understand the testing strategy. Other visual diagrams are used to complement text and bring clarity to some of the design choices. The different types of tests that were implemented in the project are clearly described and motivated. All the details and decisions made are clearly documented and a discussion of their impact in the project. The section shows some preliminary results and there is a discussion of limitations, opportunities and lessons learned.
 
 
 Excellent
 : 
-The testing design is explained in a way that can be understood by stakeholders with a common understanding of software engineering concepts. The explanation is logical and coherent and it is easy to follow. There is a visual overview that helps understand the testing strategy. Other visual diagrams are used to complement text and bring clarity to some of the design choices. The different types of tests that were implemented in the project are clearly described and motivated. All the details and decisions made are clearly documented and a discussion of their impact in the project. The section shows some preliminary results and there is a discussion of limitations, opportunities and lessons learned. There is a critical reflection on the current status of the project and alternative technologies are considered. Decisions, discussion, take-aways, are backed up with existing related work.  
+The testing design is explained in a way that can be understood by stakeholders with a common understanding of software engineering concepts. The explanation is logical, coherent, and easy to follow. There is a visual overview that helps understand the testing strategy. Other visual diagrams are used to complement text and bring clarity to some of the design choices. The different types of tests that were implemented in the project are clearly described and motivated. All the details and decisions made are clearly documented and a discussion of their impact in the project. The section shows some preliminary results and there is a discussion of limitations, opportunities and lessons learned. There is a critical reflection on the current status of the project and alternative technologies are considered. Decisions, discussion, take-aways, are backed up with existing related work.  
 
 
 ### Extension Proposal
