@@ -95,6 +95,11 @@ However, going back in your browser and clicking the link again will then load t
 | Wed | *Contents of the Essay* | [Slides][slides_12], Video unavailable  |
 | Fri | *Q&A 1+2* | [Slides][slides_13], [Video][video_13]  |
 
+[slides_12]: {%surfdrive /material/12-contents-of-the-essay.pdf%}
+[slides_13]: {%surfdrive /material/13-q&a1+2.pdf%}
+[video_13]: {%surfdrive /recordings/13-q&a1+2.mp4%}
+
+
 ### Week 7
 
 {:.material}
