@@ -29,7 +29,7 @@ Formative feedback does not influence the grade, the goal is to inform you about
 *Please note:* Not improving an insufficient rating before the course ends will be reflected in your grade; it might even affect your ability to pass the course.
 
 
-## Pass/Fail criteria
+## Pass/Fail Criteria
 
 The course defines pass/fail criteria to ensure that students can follow the teamwork phase by checking whether necessary skills have been acquired and feedback has been provided.
 Also, the criteria protect teams from unmotivated students that try to capitalize on the work of others.
