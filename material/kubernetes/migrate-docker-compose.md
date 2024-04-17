@@ -15,7 +15,7 @@ Creating a Kubernetes configuration of the project of last year is a perfect opp
 Last year, the project was based on a classifier for detecting [SMS Spam][sms-app].
 The project consisted of a backend service that wrapped an ML model in a webservice and a frontend application that added a (trivial) user interface to make it usable.
 
-[sms-app]: {%link material/projects/sms-spam.md%}
+[sms-app]: TODO
 
 #### Docker Compose
 

@@ -50,7 +50,7 @@ Each student needs to pass *all* criteria or they will fail the course, regardle
 - Availability of team results for grading (repositories, essay, artifacts)
 
 [peer-review]: {%link assignments/peer-review.md%}
-[buddycheck]: {%link assignments/buddycheck.md%}
+[buddycheck]: TODO
 
 
 ## Graded components
@@ -64,29 +64,22 @@ Most rubric items are written in a cumulative style, i.e., to achieve a "Good", 
 This applies for all grade steps. 
 
 
-- **Project (55%):** How well has the project been implemented?
+- **Project (70%):** How well has the project been implemented?
 	- [Basic Requirements]({%link assessment/basic-requirements.md%})
-	- [Versioning & Releases]({%link assessment/versioning-and-releases.md%})
-	- [Containers & Orchestration]({%link assessment/containers-and-orchestration.md%})
-	- [Kubernetes & Monitoring]({%link assessment/kubernetes-and-monitoring.md%})
-	- [Istio Service Mesh]({%link assessment/istio-service-mesh.md%})
+	- [Versioning & Releases](TODO)
+	- [Containers & Orchestration](TODO)
+	- [Kubernetes & Monitoring](TODO)
+	- [Istio Service Mesh](TODO)
 	- [ML Configuration Management]({%link assessment/a4-rubric-ml-config.md%})
 	- [ML Testing]({%link assessment/a5-ml-testing.md%})
-- **Report (40%):** How well has the project been documented?
-	- [Report]({%link assessment/report.md%})
-	- [Istio Service Mesh]({%link assessment/istio-service-mesh.md%}) (See *"Continuous Experimentation"* and *"Additional Use Case"*)
-- **Presentation & Oral Examination (5%):** Illustrating the features of the created application and checking individually, whether the learning objectives of the course have been reached.
-	- [Presentation]({%link assessment/presentation.md%})
-- **Individual Adjustment:** The project will receive a team grade. The Buddycheck results will be taken into account to adjust the team grade for individuals from -0.5 to +0.5 to the final grade.
+- **Report (30%):** How well has the project been documented?
+	- [Report](TODO)
+	- [Istio Service Mesh](TODO) (See *"Continuous Experimentation"* and *"Additional Use Case"*)
+- **Presentation & Oral Examination (Pass/Fail):** Illustrating the features of the created application and checking individually, whether the learning objectives of the course have been reached.
 
 
 *Please note:* The oral examination is a pass/fail decision and does not influence the grade.
 It serves as a measure for fraud prevention and will be used to check individually whether LOs have been reached by asking questions about lecture contents and aspects of the team application.
 Students that are unable to answer these questions will fail the course, as defined in the individual pass/fail criteria.
-
-[rubric-process]: {{site.baseurl}}/grading/process
-[rubric-product]: {{site.baseurl}}/grading/product
-[rubric-hci]: {{site.baseurl}}/grading/heuristic-usability-evaluation
-[rubric-pitch]: {{site.baseurl}}/grading/product-pitch
 
 

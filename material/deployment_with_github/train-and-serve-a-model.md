@@ -22,5 +22,5 @@ Ultimately, you should be able to query the model via that Swagger UI that is ac
 
 
 
-[sms-spam]: {%link material/projects/sms-spam.md%}
+[sms-spam]: TODO
 [sms-github]: https://github.com/proksch/sms1
