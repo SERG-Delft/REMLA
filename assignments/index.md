@@ -7,5 +7,3 @@ nav_order: 3
 ---
 
 # {{ page.title }}
-
-Throughout the course, you will work on several assignments.

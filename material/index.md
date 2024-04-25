@@ -8,21 +8,6 @@ nav_order: 2
 
 # Material
 
-This page lists all course material, which includes lecture recordings, getting started guides, tutorial videos, or reference material for the assignments.
-You are expected to work through the material in the week that are indicated in the [course schedule]({%link course_info/schedule.md%}).
-Instead of following the direct file links, you can also browse the [course share][course-share] and download all material from there.
-
-*Please note:* Lecture slides will generally be uploaded *after* the lectures.
-
-{: .info}
-You can find the required password on Brightspace: *Content » Course Info » Course Share*. <br/><br/>
-*Tip:* Surfdrive links require authentication and will redirect you to the base folder afterwards.
-However, going back in your browser and clicking the link again will then load the file directly.
-
-
-[course-share]: {{ site.surfdrive }}
-
-
 ### Week 1
 
 {: .material}
