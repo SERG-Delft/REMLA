@@ -49,10 +49,8 @@ The following example filters the deployed `lib` *Pods* and aggregates their val
 
     sum by (version) (num_requests{app="lib"})
 
-At this point, you can use and apply all the functions and techniques that you have learned in the [Exercise on Monitoring][monitoring].
+At this point, you can use and apply all the functions and techniques that you have learned in the In-class Exercise on Monitoring (See Brightspace).
 Most importantly, PromQL queries can also be used in Grafana dashboards.
-
-[monitoring]: {%link material/monitoring/index.md%}
 
 ## Clean-up
 
